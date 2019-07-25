@@ -1,0 +1,29 @@
+{
+  "trial_type": {
+    "LongName": "Condition of trial",
+    "Description": "Whether the display was passive (no display), active which changed, or didn't change",
+    "Levels": {
+      "passive": "no display with oriented bars, only a grey screen",
+      "active_change": "display with oriented bars, which changed relative to the first display",
+      "active_nochange": "display with oriented bars, which DIDN'T change relative to the first display"
+    }
+  },
+  "response_accuracy": {
+    "LongName": "Accuracy of response",
+    "Description": "Whether the response was correct, incorrect, or a miss",
+    "Levels": {
+      "correct": "response was correct",
+      "incorrect": "response was incorrect",
+      "miss": "response was missed (i.e., too late)"
+    }
+  },
+  "response_hand": {
+    "LongName": "Hand of response",
+    "Description": "Which hand was used to respond",
+    "Levels": {
+      "left": "left hand",
+      "right": "right hand"
+    }
+  }
+}
+

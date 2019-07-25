@@ -1,0 +1,25 @@
+{ 
+  "gender": {
+    "LongName": "face gender",
+    "Description": "gender of face",
+    "Levels": {
+      "male": "male",
+      "female": "female"
+    }
+  },
+  
+  "ethnicity": {
+    "LongName": "ethnicity of face",
+    "Description": "ethnicity of face",
+    "Levels": {
+      "NorthEuropean": "North European",
+      "Mediterranean": "Mediterranean"
+    }
+  },
+  
+  "ADFES_id": {
+    "LongName": "ID of face in ADFES database",
+    "Description": "ID of face in ADFES database",
+    "TermURL": "https://aice.uva.nl/research-tools/adfes-stimulus-set/adfes-stimulus-set.html"
+  }
+}
