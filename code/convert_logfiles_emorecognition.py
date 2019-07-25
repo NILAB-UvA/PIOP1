@@ -50,8 +50,9 @@ image_mapper = {
 }
 
 
-files = sorted(glob('../logs/emorecognition/raw/pi*'))
-out_dir = '../logs/emorecognition/clean'
+files = sorted(glob('../../logs/emorecognition/raw/pi*'))
+out_dir = '../../logs/emorecognition/clean'
+bids_dir = '../'
 for f in files:
     df = pd.read_csv(f, sep='\t', skiprows=3)
     pulse_idx = df.loc[df.loc[:, 'Event Type'] == 'Pulse'].index[0]
@@ -63,8 +64,8 @@ for f in files:
     df = df.loc[df.trial_type != 'Pulse', :]
     df.onset /= 10000
 
-    new_df = pd.DataFrame(columns=['onset', 'duration', 'event_type',
-                                   'response_time', 'response_hand', 'response_type'])
+    new_df = pd.DataFrame(columns=['onset', 'duration', 'trial_type',
+                                   'response_time', 'response_hand', 'response_accuracy'])
 
     i = 0
     trial_i = 0
@@ -84,17 +85,22 @@ for f in files:
         i += 1
         if i == df.shape[0]:
             break
-    new_df.loc[:, 'response_type'] = new_df['response_hand'] == new_df['correct']
-    new_df.loc[:, 'response_type'] = ['correct' if x else 'incorrect' for x in new_df['response_type']]
+    new_df.loc[:, 'response_accuracy'] = new_df['response_hand'] == new_df['correct']
+    new_df.loc[:, 'response_accuracy'] = ['correct' if x else 'incorrect' for x in new_df['response_accuracy']]
     new_df.loc[:, 'duration'] = new_df['response_time']  # CHECKEN! WEET NIET ZEKER
     new_df = new_df.drop('correct', axis=1)
     miss = new_df.response_hand.isna()
     new_df['response_hand'] = [{1:'left', 2:'right'}[x] if not np.isnan(x) else x for x in new_df['response_hand']]
-    new_df.response_type[miss] = 'miss'
+    new_df.response_accuracy[miss] = 'miss'
     new_df.duration[miss] = 4.900
-    new_df['event_type'] = ['emotion' if x in ['fear', 'anger'] else 'control' for x in new_df['emo_match']]
+    new_df['trial_type'] = ['emotion' if x in ['fear', 'anger'] else 'control' for x in new_df['emo_match']]
     new_df = new_df.round({'onset': 5, 'duration': 5})
+    new_df = new_df.fillna('n/a')
     sub_id = op.basename(f).split('-')[0][2:]
-    f_out = op.join(out_dir, f'sub-{sub_id}_task-emorecognition_events.tsv')
+    f_out = op.join(out_dir, f'sub-{sub_id}_task-emorecognition_acq-seq_events.tsv')
     new_df.to_csv(f_out, sep='\t', index=False)
+    f_out = op.join(bids_dir, f'sub-{sub_id}', 'func', f'sub-{sub_id}_task-emorecognition_acq-seq_events.tsv')
+    if op.isdir(op.dirname(f_out)):
+        new_df.to_csv(f_out, sep='\t', index=False)
+
     print(f'{f_out}, {new_df.shape[0]}')

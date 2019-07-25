@@ -1,0 +1,12 @@
+{ 
+  "trial_type": {
+    "LongName": "Condition of trial",
+    "Description": "Whether it reflects the cue (2 sec) or image (3 sec) and whether it's negative or positive",
+    "Levels": {
+      "cue_neg": "Cue indicating high probability of negative valence image",
+      "cue_neu": "Cue indicating high probability of neutral image",
+      "img_neg": "Negative valence image",
+      "img_neu": "Neutral image"
+    }
+  }
+}
