@@ -8,6 +8,8 @@ con_mapper = {0: 'null', 1: 'active_nochange', 2: 'active_change', 3: 'passive'}
 resp_mapper = {'active_nochange': 1, 'active_change': 2}
 bids_dir = '../'
 
+corrs = []
+corrsm = []
 for p_log in p_logs:
     sub_id = op.basename(p_log).split('-')[0]
     txt = glob(op.join(op.dirname(p_log), sub_id + '*.txt'))
@@ -73,14 +75,22 @@ for p_log in p_logs:
     df2 = df2.drop(['response', 'correct_resp', 'dur', 'trial_nr'], axis=1)
     df2 = df2.loc[df2.condition != 'null', :]
     df2 = df2.rename({'condition': 'trial_type'}, axis=1)
-    corr = (df2.response_accuracy == 'correct').sum() / 32
     df2 = df2.loc[:, ['onset', 'duration', 'trial_type', 'response_accuracy', 'response_time', 'response_hand']]
     df2 = df2.fillna('n/a')
-    print(df2)
     sub_id = sub_id[2:]
     f_out = f'../../logs/workingmemory/clean/sub-{sub_id}_task-workingmemory_acq-seq_events.tsv'
-    print(f'{f_out}, {corr}, {df2.shape[0]}')
-    df2.to_csv(f_out, sep='\t')
+    
+    df_np = df2.query("trial_type != 'passive'")
+    corr = (df_np.response_accuracy == 'correct').sum() / 32 
+    corrm = (df_np.response_accuracy == 'correct').sum() / (df_np.response_accuracy.isin(['correct', 'incorrect'])).sum()
+    
+    print(f'{f_out}, {corr}, {corrm}, {df2.shape[0]}')
+    corrs.append(corr)
+    corrsm.append(corrm)
+    df2.to_csv(f_out, sep='\t', index=False)
     f_out = f'{bids_dir}/sub-{sub_id}/func/sub-{sub_id}_task-workingmemory_acq-seq_events.tsv'
     if op.isdir(op.dirname(f_out)):
         df2.to_csv(f_out, sep='\t', index=False)
+
+print(np.mean(corrs))
+print(np.mean(corrsm))

@@ -1,0 +1,6 @@
+[submodule "code/--branch"]
+	path = code/--branch
+	url = https://github.com/poldracklab/fmriprep.git
+[submodule "code/fmriprep"]
+	path = code/fmriprep
+	url = https://github.com/poldracklab/fmriprep.git

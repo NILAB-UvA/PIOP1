@@ -1,4 +1,7 @@
 {
+  "onset": {
+    "Description": "Onset of the trial, i.e., the first display of oriented bars."
+  },
   "trial_type": {
     "LongName": "Condition of trial",
     "Description": "Whether the display was passive (no display), active which changed, or didn't change",
