@@ -1,0 +1,1677 @@
+files	x_dim	y_dim	z_dim	dyns	x_pixdim	y_pixdim	z_pixdim	TR	participant_label	data_type	file_type	taskname
+sub-0001_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0001	anat	T1w	
+sub-0003_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0003	anat	T1w	
+sub-0004_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0004	anat	T1w	
+sub-0005_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0005	anat	T1w	
+sub-0006_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0006	anat	T1w	
+sub-0007_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0007	anat	T1w	
+sub-0009_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0009	anat	T1w	
+sub-0010_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0010	anat	T1w	
+sub-0012_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0012	anat	T1w	
+sub-0013_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0013	anat	T1w	
+sub-0014_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0014	anat	T1w	
+sub-0015_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0015	anat	T1w	
+sub-0018_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0018	anat	T1w	
+sub-0019_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0019	anat	T1w	
+sub-0020_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0020	anat	T1w	
+sub-0021_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0021	anat	T1w	
+sub-0022_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0022	anat	T1w	
+sub-0023_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0023	anat	T1w	
+sub-0025_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0025	anat	T1w	
+sub-0026_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0026	anat	T1w	
+sub-0027_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0027	anat	T1w	
+sub-0028_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0028	anat	T1w	
+sub-0029_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0029	anat	T1w	
+sub-0030_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0030	anat	T1w	
+sub-0031_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0031	anat	T1w	
+sub-0032_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0032	anat	T1w	
+sub-0033_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0033	anat	T1w	
+sub-0034_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0034	anat	T1w	
+sub-0035_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0035	anat	T1w	
+sub-0036_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0036	anat	T1w	
+sub-0037_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0037	anat	T1w	
+sub-0038_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0038	anat	T1w	
+sub-0039_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0039	anat	T1w	
+sub-0041_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0041	anat	T1w	
+sub-0042_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0042	anat	T1w	
+sub-0045_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0045	anat	T1w	
+sub-0046_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0046	anat	T1w	
+sub-0047_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0047	anat	T1w	
+sub-0048_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0048	anat	T1w	
+sub-0049_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0049	anat	T1w	
+sub-0050_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0050	anat	T1w	
+sub-0051_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0051	anat	T1w	
+sub-0052_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0052	anat	T1w	
+sub-0053_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0053	anat	T1w	
+sub-0054_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0054	anat	T1w	
+sub-0055_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0055	anat	T1w	
+sub-0056_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0056	anat	T1w	
+sub-0057_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0057	anat	T1w	
+sub-0058_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0058	anat	T1w	
+sub-0059_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0059	anat	T1w	
+sub-0060_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0060	anat	T1w	
+sub-0061_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0061	anat	T1w	
+sub-0062_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0062	anat	T1w	
+sub-0063_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0063	anat	T1w	
+sub-0064_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0064	anat	T1w	
+sub-0065_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0065	anat	T1w	
+sub-0066_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0066	anat	T1w	
+sub-0067_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0067	anat	T1w	
+sub-0068_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0068	anat	T1w	
+sub-0069_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0069	anat	T1w	
+sub-0070_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0070	anat	T1w	
+sub-0071_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0071	anat	T1w	
+sub-0072_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0072	anat	T1w	
+sub-0073_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0073	anat	T1w	
+sub-0074_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0074	anat	T1w	
+sub-0075_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0075	anat	T1w	
+sub-0076_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0076	anat	T1w	
+sub-0077_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0077	anat	T1w	
+sub-0078_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0078	anat	T1w	
+sub-0079_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0079	anat	T1w	
+sub-0080_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0080	anat	T1w	
+sub-0081_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0081	anat	T1w	
+sub-0082_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0082	anat	T1w	
+sub-0083_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0083	anat	T1w	
+sub-0084_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0084	anat	T1w	
+sub-0085_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0085	anat	T1w	
+sub-0086_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0086	anat	T1w	
+sub-0087_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0087	anat	T1w	
+sub-0088_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0088	anat	T1w	
+sub-0089_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0089	anat	T1w	
+sub-0090_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0090	anat	T1w	
+sub-0091_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0091	anat	T1w	
+sub-0092_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0092	anat	T1w	
+sub-0093_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0093	anat	T1w	
+sub-0094_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0094	anat	T1w	
+sub-0095_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0095	anat	T1w	
+sub-0096_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0096	anat	T1w	
+sub-0097_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0097	anat	T1w	
+sub-0098_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0098	anat	T1w	
+sub-0099_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0099	anat	T1w	
+sub-0100_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0100	anat	T1w	
+sub-0101_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0101	anat	T1w	
+sub-0102_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0102	anat	T1w	
+sub-0103_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0103	anat	T1w	
+sub-0104_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0104	anat	T1w	
+sub-0105_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0105	anat	T1w	
+sub-0106_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0106	anat	T1w	
+sub-0107_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0107	anat	T1w	
+sub-0108_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0108	anat	T1w	
+sub-0109_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0109	anat	T1w	
+sub-0110_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0110	anat	T1w	
+sub-0112_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0112	anat	T1w	
+sub-0113_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0113	anat	T1w	
+sub-0114_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0114	anat	T1w	
+sub-0115_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0115	anat	T1w	
+sub-0116_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0116	anat	T1w	
+sub-0117_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0117	anat	T1w	
+sub-0118_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0118	anat	T1w	
+sub-0119_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0119	anat	T1w	
+sub-0120_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0120	anat	T1w	
+sub-0122_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0122	anat	T1w	
+sub-0123_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0123	anat	T1w	
+sub-0124_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0124	anat	T1w	
+sub-0125_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0125	anat	T1w	
+sub-0126_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0126	anat	T1w	
+sub-0128_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0128	anat	T1w	
+sub-0129_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0129	anat	T1w	
+sub-0130_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0130	anat	T1w	
+sub-0131_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0131	anat	T1w	
+sub-0132_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0132	anat	T1w	
+sub-0133_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0133	anat	T1w	
+sub-0134_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0134	anat	T1w	
+sub-0135_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0135	anat	T1w	
+sub-0136_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0136	anat	T1w	
+sub-0137_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0137	anat	T1w	
+sub-0138_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0138	anat	T1w	
+sub-0139_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0139	anat	T1w	
+sub-0140_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0140	anat	T1w	
+sub-0141_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0141	anat	T1w	
+sub-0142_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0142	anat	T1w	
+sub-0143_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0143	anat	T1w	
+sub-0144_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0144	anat	T1w	
+sub-0145_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0145	anat	T1w	
+sub-0146_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0146	anat	T1w	
+sub-0147_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0147	anat	T1w	
+sub-0148_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0148	anat	T1w	
+sub-0149_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0149	anat	T1w	
+sub-0152_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0152	anat	T1w	
+sub-0154_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0154	anat	T1w	
+sub-0155_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0155	anat	T1w	
+sub-0156_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0156	anat	T1w	
+sub-0157_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0157	anat	T1w	
+sub-0158_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0158	anat	T1w	
+sub-0159_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0159	anat	T1w	
+sub-0166_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0166	anat	T1w	
+sub-0168_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0168	anat	T1w	
+sub-0169_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0169	anat	T1w	
+sub-0170_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0170	anat	T1w	
+sub-0171_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0171	anat	T1w	
+sub-0172_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0172	anat	T1w	
+sub-0173_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0173	anat	T1w	
+sub-0175_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0175	anat	T1w	
+sub-0177_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0177	anat	T1w	
+sub-0178_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0178	anat	T1w	
+sub-0179_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0179	anat	T1w	
+sub-0182_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0182	anat	T1w	
+sub-0183_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0183	anat	T1w	
+sub-0184_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0184	anat	T1w	
+sub-0185_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0185	anat	T1w	
+sub-0186_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0186	anat	T1w	
+sub-0187_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0187	anat	T1w	
+sub-0189_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0189	anat	T1w	
+sub-0190_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0190	anat	T1w	
+sub-0191_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0191	anat	T1w	
+sub-0192_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0192	anat	T1w	
+sub-0193_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0193	anat	T1w	
+sub-0194_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0194	anat	T1w	
+sub-0195_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0195	anat	T1w	
+sub-0198_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0198	anat	T1w	
+sub-0199_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0199	anat	T1w	
+sub-0200_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0200	anat	T1w	
+sub-0201_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0201	anat	T1w	
+sub-0202_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0202	anat	T1w	
+sub-0203_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0203	anat	T1w	
+sub-0204_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0204	anat	T1w	
+sub-0205_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0205	anat	T1w	
+sub-0206_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0206	anat	T1w	
+sub-0207_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0207	anat	T1w	
+sub-0208_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0208	anat	T1w	
+sub-0209_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0209	anat	T1w	
+sub-0210_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0210	anat	T1w	
+sub-0211_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0211	anat	T1w	
+sub-0212_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0212	anat	T1w	
+sub-0213_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0213	anat	T1w	
+sub-0214_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0214	anat	T1w	
+sub-0215_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0215	anat	T1w	
+sub-0216_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0216	anat	T1w	
+sub-0217_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0217	anat	T1w	
+sub-0218_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0218	anat	T1w	
+sub-0219_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0219	anat	T1w	
+sub-0220_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0220	anat	T1w	
+sub-0221_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0221	anat	T1w	
+sub-0222_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0222	anat	T1w	
+sub-0223_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0223	anat	T1w	
+sub-0224_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0224	anat	T1w	
+sub-0225_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0225	anat	T1w	
+sub-0226_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0226	anat	T1w	
+sub-0227_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0227	anat	T1w	
+sub-0228_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0228	anat	T1w	
+sub-0229_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0229	anat	T1w	
+sub-0230_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0230	anat	T1w	
+sub-0231_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0231	anat	T1w	
+sub-0233_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0233	anat	T1w	
+sub-0234_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0234	anat	T1w	
+sub-0235_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0235	anat	T1w	
+sub-0237_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0237	anat	T1w	
+sub-0238_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0238	anat	T1w	
+sub-0239_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0239	anat	T1w	
+sub-0240_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0240	anat	T1w	
+sub-0241_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0241	anat	T1w	
+sub-0242_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0242	anat	T1w	
+sub-0243_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0243	anat	T1w	
+sub-0244_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0244	anat	T1w	
+sub-0245_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0245	anat	T1w	
+sub-0246_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0246	anat	T1w	
+sub-0247_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0247	anat	T1w	
+sub-0248_T1w.nii.gz	240.0	240.0	220.0		1.0	1.0	1.0		sub-0248	anat	T1w	
+sub-0001_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38817834854126	sub-0001	dwi	dwi	
+sub-0003_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0003	dwi	dwi	
+sub-0004_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385928153991699	sub-0004	dwi	dwi	
+sub-0005_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388016223907471	sub-0005	dwi	dwi	
+sub-0006_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.513355731964111	sub-0006	dwi	dwi	
+sub-0007_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.389047622680664	sub-0007	dwi	dwi	
+sub-0009_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386270046234131	sub-0009	dwi	dwi	
+sub-0010_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391088008880615	sub-0010	dwi	dwi	
+sub-0012_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388016223907471	sub-0012	dwi	dwi	
+sub-0013_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388897895812988	sub-0013	dwi	dwi	
+sub-0014_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3866119384765625	sub-0014	dwi	dwi	
+sub-0015_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384098052978516	sub-0015	dwi	dwi	
+sub-0018_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.395318031311035	sub-0018	dwi	dwi	
+sub-0019_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393566131591797	sub-0019	dwi	dwi	
+sub-0020_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388520240783691	sub-0020	dwi	dwi	
+sub-0021_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0021	dwi	dwi	
+sub-0022_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388171672821045	sub-0022	dwi	dwi	
+sub-0023_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.389047622680664	sub-0023	dwi	dwi	
+sub-0025_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388171672821045	sub-0025	dwi	dwi	
+sub-0026_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3902177810668945	sub-0026	dwi	dwi	
+sub-0027_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0027	dwi	dwi	
+sub-0028_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391250133514404	sub-0028	dwi	dwi	
+sub-0029_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388897895812988	sub-0029	dwi	dwi	
+sub-0030_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.39109992980957	sub-0030	dwi	dwi	
+sub-0031_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388897895812988	sub-0031	dwi	dwi	
+sub-0032_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388358116149902	sub-0032	dwi	dwi	
+sub-0033_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.700220108032227	sub-0033	dwi	dwi	
+sub-0034_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390722274780273	sub-0034	dwi	dwi	
+sub-0035_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388520240783691	sub-0035	dwi	dwi	
+sub-0036_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0036	dwi	dwi	
+sub-0037_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388700008392334	sub-0037	dwi	dwi	
+sub-0038_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390727996826172	sub-0038	dwi	dwi	
+sub-0039_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391088008880615	sub-0039	dwi	dwi	
+sub-0041_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0041	dwi	dwi	
+sub-0042_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38817834854126	sub-0042	dwi	dwi	
+sub-0045_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386437892913818	sub-0045	dwi	dwi	
+sub-0046_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38643217086792	sub-0046	dwi	dwi	
+sub-0047_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0047	dwi	dwi	
+sub-0048_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393566131591797	sub-0048	dwi	dwi	
+sub-0049_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390722274780273	sub-0049	dwi	dwi	
+sub-0050_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393038272857666	sub-0050	dwi	dwi	
+sub-0051_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390902042388916	sub-0051	dwi	dwi	
+sub-0052_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0052	dwi	dwi	
+sub-0053_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0053	dwi	dwi	
+sub-0054_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388700008392334	sub-0054	dwi	dwi	
+sub-0055_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390379905700684	sub-0055	dwi	dwi	
+sub-0056_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0056	dwi	dwi	
+sub-0057_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0057	dwi	dwi	
+sub-0058_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0058	dwi	dwi	
+sub-0059_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0059	dwi	dwi	
+sub-0060_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393566131591797	sub-0060	dwi	dwi	
+sub-0061_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384818077087402	sub-0061	dwi	dwi	
+sub-0062_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3949761390686035	sub-0062	dwi	dwi	
+sub-0063_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38852596282959	sub-0063	dwi	dwi	
+sub-0064_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388700008392334	sub-0064	dwi	dwi	
+sub-0065_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388520240783691	sub-0065	dwi	dwi	
+sub-0066_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391250133514404	sub-0066	dwi	dwi	
+sub-0067_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390722274780273	sub-0067	dwi	dwi	
+sub-0068_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0068	dwi	dwi	
+sub-0069_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0069	dwi	dwi	
+sub-0070_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.39109992980957	sub-0070	dwi	dwi	
+sub-0071_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388520240783691	sub-0071	dwi	dwi	
+sub-0072_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0072	dwi	dwi	
+sub-0073_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390908241271973	sub-0073	dwi	dwi	
+sub-0074_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0074	dwi	dwi	
+sub-0075_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.395852088928223	sub-0075	dwi	dwi	
+sub-0076_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.395318031311035	sub-0076	dwi	dwi	
+sub-0077_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.397543907165527	sub-0077	dwi	dwi	
+sub-0078_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0078	dwi	dwi	
+sub-0079_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388520240783691	sub-0079	dwi	dwi	
+sub-0080_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0080	dwi	dwi	
+sub-0081_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388706207275391	sub-0081	dwi	dwi	
+sub-0082_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388897895812988	sub-0082	dwi	dwi	
+sub-0083_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391094207763672	sub-0083	dwi	dwi	
+sub-0084_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0084	dwi	dwi	
+sub-0085_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388700008392334	sub-0085	dwi	dwi	
+sub-0086_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0086	dwi	dwi	
+sub-0087_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0087	dwi	dwi	
+sub-0088_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386270046234131	sub-0088	dwi	dwi	
+sub-0089_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392534255981445	sub-0089	dwi	dwi	
+sub-0090_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388706207275391	sub-0090	dwi	dwi	
+sub-0091_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385928153991699	sub-0091	dwi	dwi	
+sub-0092_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390560150146484	sub-0092	dwi	dwi	
+sub-0093_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388897895812988	sub-0093	dwi	dwi	
+sub-0094_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0094	dwi	dwi	
+sub-0095_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38817834854126	sub-0095	dwi	dwi	
+sub-0096_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390374183654785	sub-0096	dwi	dwi	
+sub-0097_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0097	dwi	dwi	
+sub-0098_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3949761390686035	sub-0098	dwi	dwi	
+sub-0099_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0099	dwi	dwi	
+sub-0100_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388016223907471	sub-0100	dwi	dwi	
+sub-0101_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0101	dwi	dwi	
+sub-0102_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3926897048950195	sub-0102	dwi	dwi	
+sub-0103_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3926897048950195	sub-0103	dwi	dwi	
+sub-0104_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393224239349365	sub-0104	dwi	dwi	
+sub-0105_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.395648002624512	sub-0105	dwi	dwi	
+sub-0106_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0106	dwi	dwi	
+sub-0107_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0107	dwi	dwi	
+sub-0108_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388706207275391	sub-0108	dwi	dwi	
+sub-0109_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392534255981445	sub-0109	dwi	dwi	
+sub-0110_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0110	dwi	dwi	
+sub-0112_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386804103851318	sub-0112	dwi	dwi	
+sub-0113_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393224239349365	sub-0113	dwi	dwi	
+sub-0114_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3949761390686035	sub-0114	dwi	dwi	
+sub-0115_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0115	dwi	dwi	
+sub-0116_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38852596282959	sub-0116	dwi	dwi	
+sub-0117_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392534255981445	sub-0117	dwi	dwi	
+sub-0118_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3902177810668945	sub-0118	dwi	dwi	
+sub-0119_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.39286994934082	sub-0119	dwi	dwi	
+sub-0120_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3926897048950195	sub-0120	dwi	dwi	
+sub-0122_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0122	dwi	dwi	
+sub-0123_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386618137359619	sub-0123	dwi	dwi	
+sub-0124_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388520240783691	sub-0124	dwi	dwi	
+sub-0125_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386809825897217	sub-0125	dwi	dwi	
+sub-0126_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.396001815795898	sub-0126	dwi	dwi	
+sub-0128_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.476534366607666	sub-0128	dwi	dwi	
+sub-0129_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0129	dwi	dwi	
+sub-0130_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386270046234131	sub-0130	dwi	dwi	
+sub-0131_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3934102058410645	sub-0131	dwi	dwi	
+sub-0132_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3949761390686035	sub-0132	dwi	dwi	
+sub-0133_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391250133514404	sub-0133	dwi	dwi	
+sub-0134_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393566131591797	sub-0134	dwi	dwi	
+sub-0135_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.396001815795898	sub-0135	dwi	dwi	
+sub-0136_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386618137359619	sub-0136	dwi	dwi	
+sub-0137_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391243934631348	sub-0137	dwi	dwi	
+sub-0138_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385921955108643	sub-0138	dwi	dwi	
+sub-0139_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384818077087402	sub-0139	dwi	dwi	
+sub-0140_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0140	dwi	dwi	
+sub-0141_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392876148223877	sub-0141	dwi	dwi	
+sub-0142_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3949761390686035	sub-0142	dwi	dwi	
+sub-0143_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3866119384765625	sub-0143	dwi	dwi	
+sub-0144_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384974002838135	sub-0144	dwi	dwi	
+sub-0145_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0145	dwi	dwi	
+sub-0146_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391250133514404	sub-0146	dwi	dwi	
+sub-0147_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0147	dwi	dwi	
+sub-0148_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392534255981445	sub-0148	dwi	dwi	
+sub-0149_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390374183654785	sub-0149	dwi	dwi	
+sub-0152_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0152	dwi	dwi	
+sub-0154_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393224239349365	sub-0154	dwi	dwi	
+sub-0155_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0155	dwi	dwi	
+sub-0156_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390374183654785	sub-0156	dwi	dwi	
+sub-0157_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0157	dwi	dwi	
+sub-0158_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.393415927886963	sub-0158	dwi	dwi	
+sub-0159_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0159	dwi	dwi	
+sub-0166_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391094207763672	sub-0166	dwi	dwi	
+sub-0168_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390379905700684	sub-0168	dwi	dwi	
+sub-0169_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391243934631348	sub-0169	dwi	dwi	
+sub-0170_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391094207763672	sub-0170	dwi	dwi	
+sub-0171_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390565872192383	sub-0171	dwi	dwi	
+sub-0172_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.39286994934082	sub-0172	dwi	dwi	
+sub-0173_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.389047622680664	sub-0173	dwi	dwi	
+sub-0175_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3902177810668945	sub-0175	dwi	dwi	
+sub-0177_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391250133514404	sub-0177	dwi	dwi	
+sub-0178_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391088008880615	sub-0178	dwi	dwi	
+sub-0179_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390908241271973	sub-0179	dwi	dwi	
+sub-0182_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0182	dwi	dwi	
+sub-0183_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.3949761390686035	sub-0183	dwi	dwi	
+sub-0184_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384445667266846	sub-0184	dwi	dwi	
+sub-0185_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386954307556152	sub-0185	dwi	dwi	
+sub-0186_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38817834854126	sub-0186	dwi	dwi	
+sub-0187_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0187	dwi	dwi	
+sub-0189_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.391250133514404	sub-0189	dwi	dwi	
+sub-0190_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390565872192383	sub-0190	dwi	dwi	
+sub-0191_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0191	dwi	dwi	
+sub-0192_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386084079742432	sub-0192	dwi	dwi	
+sub-0193_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386084079742432	sub-0193	dwi	dwi	
+sub-0194_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.476720333099365	sub-0194	dwi	dwi	
+sub-0195_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390902042388916	sub-0195	dwi	dwi	
+sub-0198_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386954307556152	sub-0198	dwi	dwi	
+sub-0199_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.476881980895996	sub-0199	dwi	dwi	
+sub-0200_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0200	dwi	dwi	
+sub-0201_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386084079742432	sub-0201	dwi	dwi	
+sub-0202_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0202	dwi	dwi	
+sub-0203_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0203	dwi	dwi	
+sub-0204_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.389047622680664	sub-0204	dwi	dwi	
+sub-0205_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0205	dwi	dwi	
+sub-0206_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0206	dwi	dwi	
+sub-0207_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384818077087402	sub-0207	dwi	dwi	
+sub-0208_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0208	dwi	dwi	
+sub-0209_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0209	dwi	dwi	
+sub-0210_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388897895812988	sub-0210	dwi	dwi	
+sub-0211_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390722274780273	sub-0211	dwi	dwi	
+sub-0212_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0212	dwi	dwi	
+sub-0213_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.390223979949951	sub-0213	dwi	dwi	
+sub-0214_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38889217376709	sub-0214	dwi	dwi	
+sub-0215_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.382214069366455	sub-0215	dwi	dwi	
+sub-0216_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0216	dwi	dwi	
+sub-0217_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0217	dwi	dwi	
+sub-0218_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.474493980407715	sub-0218	dwi	dwi	
+sub-0219_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384445667266846	sub-0219	dwi	dwi	
+sub-0220_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388171672821045	sub-0220	dwi	dwi	
+sub-0221_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388021945953369	sub-0221	dwi	dwi	
+sub-0222_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0222	dwi	dwi	
+sub-0223_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386960029602051	sub-0223	dwi	dwi	
+sub-0224_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0224	dwi	dwi	
+sub-0225_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.388363838195801	sub-0225	dwi	dwi	
+sub-0226_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.478370189666748	sub-0226	dwi	dwi	
+sub-0227_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0227	dwi	dwi	
+sub-0228_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385928153991699	sub-0228	dwi	dwi	
+sub-0229_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.392539978027344	sub-0229	dwi	dwi	
+sub-0230_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.476720333099365	sub-0230	dwi	dwi	
+sub-0231_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384974002838135	sub-0231	dwi	dwi	
+sub-0233_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.383942127227783	sub-0233	dwi	dwi	
+sub-0234_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386084079742432	sub-0234	dwi	dwi	
+sub-0235_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386437892913818	sub-0235	dwi	dwi	
+sub-0237_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.382562160491943	sub-0237	dwi	dwi	
+sub-0238_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.386270046234131	sub-0238	dwi	dwi	
+sub-0239_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384445667266846	sub-0239	dwi	dwi	
+sub-0240_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.475165843963623	sub-0240	dwi	dwi	
+sub-0241_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384967803955078	sub-0241	dwi	dwi	
+sub-0242_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.382934093475342	sub-0242	dwi	dwi	
+sub-0243_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.478370189666748	sub-0243	dwi	dwi	
+sub-0244_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0244	dwi	dwi	
+sub-0245_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.385933876037598	sub-0245	dwi	dwi	
+sub-0246_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.384818077087402	sub-0246	dwi	dwi	
+sub-0247_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38643217086792	sub-0247	dwi	dwi	
+sub-0248_dwi.nii.gz	112.0	112.0	60.0	33.0	2.0	2.0	2.0	7.38394832611084	sub-0248	dwi	dwi	
+sub-0010_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0010	func	bold	anticipation
+sub-0012_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0012	func	bold	anticipation
+sub-0013_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0013	func	bold	anticipation
+sub-0014_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0014	func	bold	anticipation
+sub-0015_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0015	func	bold	anticipation
+sub-0018_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0018	func	bold	anticipation
+sub-0019_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0019	func	bold	anticipation
+sub-0020_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0020	func	bold	anticipation
+sub-0021_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0021	func	bold	anticipation
+sub-0022_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0022	func	bold	anticipation
+sub-0023_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0023	func	bold	anticipation
+sub-0025_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0025	func	bold	anticipation
+sub-0026_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0026	func	bold	anticipation
+sub-0027_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0027	func	bold	anticipation
+sub-0028_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0028	func	bold	anticipation
+sub-0029_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0029	func	bold	anticipation
+sub-0030_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0030	func	bold	anticipation
+sub-0031_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0031	func	bold	anticipation
+sub-0032_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0032	func	bold	anticipation
+sub-0033_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0033	func	bold	anticipation
+sub-0034_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0034	func	bold	anticipation
+sub-0035_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0035	func	bold	anticipation
+sub-0036_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0036	func	bold	anticipation
+sub-0037_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0037	func	bold	anticipation
+sub-0038_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0038	func	bold	anticipation
+sub-0039_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0039	func	bold	anticipation
+sub-0041_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0041	func	bold	anticipation
+sub-0042_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0042	func	bold	anticipation
+sub-0045_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0045	func	bold	anticipation
+sub-0046_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0046	func	bold	anticipation
+sub-0047_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0047	func	bold	anticipation
+sub-0048_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0048	func	bold	anticipation
+sub-0049_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0049	func	bold	anticipation
+sub-0050_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0050	func	bold	anticipation
+sub-0051_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0051	func	bold	anticipation
+sub-0052_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0052	func	bold	anticipation
+sub-0053_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0053	func	bold	anticipation
+sub-0054_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0054	func	bold	anticipation
+sub-0055_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0055	func	bold	anticipation
+sub-0056_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0056	func	bold	anticipation
+sub-0057_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0057	func	bold	anticipation
+sub-0058_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0058	func	bold	anticipation
+sub-0059_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0059	func	bold	anticipation
+sub-0060_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0060	func	bold	anticipation
+sub-0061_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0061	func	bold	anticipation
+sub-0062_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0062	func	bold	anticipation
+sub-0063_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0063	func	bold	anticipation
+sub-0064_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0064	func	bold	anticipation
+sub-0065_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0065	func	bold	anticipation
+sub-0066_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0066	func	bold	anticipation
+sub-0067_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0067	func	bold	anticipation
+sub-0068_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0068	func	bold	anticipation
+sub-0069_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0069	func	bold	anticipation
+sub-0070_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0070	func	bold	anticipation
+sub-0071_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0071	func	bold	anticipation
+sub-0072_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0072	func	bold	anticipation
+sub-0073_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0073	func	bold	anticipation
+sub-0074_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0074	func	bold	anticipation
+sub-0075_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0075	func	bold	anticipation
+sub-0076_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0076	func	bold	anticipation
+sub-0077_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0077	func	bold	anticipation
+sub-0078_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0078	func	bold	anticipation
+sub-0079_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0079	func	bold	anticipation
+sub-0080_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0080	func	bold	anticipation
+sub-0081_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0081	func	bold	anticipation
+sub-0083_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0083	func	bold	anticipation
+sub-0084_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0084	func	bold	anticipation
+sub-0085_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0085	func	bold	anticipation
+sub-0086_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0086	func	bold	anticipation
+sub-0087_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0087	func	bold	anticipation
+sub-0088_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0088	func	bold	anticipation
+sub-0089_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0089	func	bold	anticipation
+sub-0090_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0090	func	bold	anticipation
+sub-0091_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0091	func	bold	anticipation
+sub-0092_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0092	func	bold	anticipation
+sub-0093_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0093	func	bold	anticipation
+sub-0094_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0094	func	bold	anticipation
+sub-0095_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0095	func	bold	anticipation
+sub-0096_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0096	func	bold	anticipation
+sub-0097_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0097	func	bold	anticipation
+sub-0098_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0098	func	bold	anticipation
+sub-0099_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0099	func	bold	anticipation
+sub-0100_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0100	func	bold	anticipation
+sub-0101_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0101	func	bold	anticipation
+sub-0102_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0102	func	bold	anticipation
+sub-0103_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0103	func	bold	anticipation
+sub-0104_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0104	func	bold	anticipation
+sub-0105_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0105	func	bold	anticipation
+sub-0106_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0106	func	bold	anticipation
+sub-0107_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0107	func	bold	anticipation
+sub-0108_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0108	func	bold	anticipation
+sub-0109_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0109	func	bold	anticipation
+sub-0110_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0110	func	bold	anticipation
+sub-0112_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0112	func	bold	anticipation
+sub-0113_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0113	func	bold	anticipation
+sub-0114_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0114	func	bold	anticipation
+sub-0115_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0115	func	bold	anticipation
+sub-0116_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0116	func	bold	anticipation
+sub-0117_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0117	func	bold	anticipation
+sub-0118_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0118	func	bold	anticipation
+sub-0119_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0119	func	bold	anticipation
+sub-0120_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0120	func	bold	anticipation
+sub-0122_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0122	func	bold	anticipation
+sub-0124_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0124	func	bold	anticipation
+sub-0125_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0125	func	bold	anticipation
+sub-0126_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0126	func	bold	anticipation
+sub-0128_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0128	func	bold	anticipation
+sub-0129_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0129	func	bold	anticipation
+sub-0130_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0130	func	bold	anticipation
+sub-0131_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0131	func	bold	anticipation
+sub-0133_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0133	func	bold	anticipation
+sub-0134_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0134	func	bold	anticipation
+sub-0135_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0135	func	bold	anticipation
+sub-0136_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0136	func	bold	anticipation
+sub-0137_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0137	func	bold	anticipation
+sub-0138_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0138	func	bold	anticipation
+sub-0139_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0139	func	bold	anticipation
+sub-0140_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0140	func	bold	anticipation
+sub-0141_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0141	func	bold	anticipation
+sub-0142_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0142	func	bold	anticipation
+sub-0143_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0143	func	bold	anticipation
+sub-0144_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0144	func	bold	anticipation
+sub-0145_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0145	func	bold	anticipation
+sub-0146_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0146	func	bold	anticipation
+sub-0147_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0147	func	bold	anticipation
+sub-0148_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0148	func	bold	anticipation
+sub-0149_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0149	func	bold	anticipation
+sub-0152_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0152	func	bold	anticipation
+sub-0154_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0154	func	bold	anticipation
+sub-0155_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0155	func	bold	anticipation
+sub-0156_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0156	func	bold	anticipation
+sub-0157_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0157	func	bold	anticipation
+sub-0158_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0158	func	bold	anticipation
+sub-0159_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0159	func	bold	anticipation
+sub-0166_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0166	func	bold	anticipation
+sub-0168_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0168	func	bold	anticipation
+sub-0169_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0169	func	bold	anticipation
+sub-0170_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0170	func	bold	anticipation
+sub-0171_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0171	func	bold	anticipation
+sub-0172_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0172	func	bold	anticipation
+sub-0173_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0173	func	bold	anticipation
+sub-0175_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0175	func	bold	anticipation
+sub-0177_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0177	func	bold	anticipation
+sub-0178_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0178	func	bold	anticipation
+sub-0182_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0182	func	bold	anticipation
+sub-0183_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0183	func	bold	anticipation
+sub-0185_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0185	func	bold	anticipation
+sub-0186_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0186	func	bold	anticipation
+sub-0187_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0187	func	bold	anticipation
+sub-0189_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0189	func	bold	anticipation
+sub-0190_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0190	func	bold	anticipation
+sub-0191_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0191	func	bold	anticipation
+sub-0192_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0192	func	bold	anticipation
+sub-0193_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0193	func	bold	anticipation
+sub-0194_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0194	func	bold	anticipation
+sub-0195_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0195	func	bold	anticipation
+sub-0198_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0198	func	bold	anticipation
+sub-0199_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0199	func	bold	anticipation
+sub-0200_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0200	func	bold	anticipation
+sub-0201_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0201	func	bold	anticipation
+sub-0202_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0202	func	bold	anticipation
+sub-0203_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0203	func	bold	anticipation
+sub-0204_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0204	func	bold	anticipation
+sub-0205_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0205	func	bold	anticipation
+sub-0206_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0206	func	bold	anticipation
+sub-0207_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0207	func	bold	anticipation
+sub-0208_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0208	func	bold	anticipation
+sub-0209_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0209	func	bold	anticipation
+sub-0210_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0210	func	bold	anticipation
+sub-0211_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0211	func	bold	anticipation
+sub-0212_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0212	func	bold	anticipation
+sub-0213_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0213	func	bold	anticipation
+sub-0214_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0214	func	bold	anticipation
+sub-0215_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0215	func	bold	anticipation
+sub-0216_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0216	func	bold	anticipation
+sub-0217_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0217	func	bold	anticipation
+sub-0218_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0218	func	bold	anticipation
+sub-0219_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0219	func	bold	anticipation
+sub-0220_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0220	func	bold	anticipation
+sub-0221_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0221	func	bold	anticipation
+sub-0222_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0222	func	bold	anticipation
+sub-0223_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0223	func	bold	anticipation
+sub-0224_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0224	func	bold	anticipation
+sub-0226_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0226	func	bold	anticipation
+sub-0227_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0227	func	bold	anticipation
+sub-0228_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0228	func	bold	anticipation
+sub-0229_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0229	func	bold	anticipation
+sub-0230_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0230	func	bold	anticipation
+sub-0231_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0231	func	bold	anticipation
+sub-0233_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0233	func	bold	anticipation
+sub-0234_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0234	func	bold	anticipation
+sub-0235_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0235	func	bold	anticipation
+sub-0237_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0237	func	bold	anticipation
+sub-0238_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0238	func	bold	anticipation
+sub-0239_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0239	func	bold	anticipation
+sub-0240_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0240	func	bold	anticipation
+sub-0241_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0241	func	bold	anticipation
+sub-0242_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0242	func	bold	anticipation
+sub-0243_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0243	func	bold	anticipation
+sub-0244_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0244	func	bold	anticipation
+sub-0245_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0245	func	bold	anticipation
+sub-0246_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0246	func	bold	anticipation
+sub-0247_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0247	func	bold	anticipation
+sub-0248_task-anticipation_acq-seq_bold.nii.gz	80.0	80.0	37.0	200.0	3.0	3.0	3.299999952316284	2.0	sub-0248	func	bold	anticipation
+sub-0010_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0010	func	bold	emorecognition
+sub-0012_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0012	func	bold	emorecognition
+sub-0013_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0013	func	bold	emorecognition
+sub-0014_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0014	func	bold	emorecognition
+sub-0015_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0015	func	bold	emorecognition
+sub-0018_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0018	func	bold	emorecognition
+sub-0019_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0019	func	bold	emorecognition
+sub-0020_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0020	func	bold	emorecognition
+sub-0021_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0021	func	bold	emorecognition
+sub-0022_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0022	func	bold	emorecognition
+sub-0023_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0023	func	bold	emorecognition
+sub-0025_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0025	func	bold	emorecognition
+sub-0026_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0026	func	bold	emorecognition
+sub-0027_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0027	func	bold	emorecognition
+sub-0028_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0028	func	bold	emorecognition
+sub-0029_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0029	func	bold	emorecognition
+sub-0030_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0030	func	bold	emorecognition
+sub-0031_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0031	func	bold	emorecognition
+sub-0032_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0032	func	bold	emorecognition
+sub-0033_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0033	func	bold	emorecognition
+sub-0034_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0034	func	bold	emorecognition
+sub-0035_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0035	func	bold	emorecognition
+sub-0036_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0036	func	bold	emorecognition
+sub-0037_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0037	func	bold	emorecognition
+sub-0038_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0038	func	bold	emorecognition
+sub-0039_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0039	func	bold	emorecognition
+sub-0041_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0041	func	bold	emorecognition
+sub-0042_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0042	func	bold	emorecognition
+sub-0045_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0045	func	bold	emorecognition
+sub-0046_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0046	func	bold	emorecognition
+sub-0047_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0047	func	bold	emorecognition
+sub-0048_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0048	func	bold	emorecognition
+sub-0049_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0049	func	bold	emorecognition
+sub-0050_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0050	func	bold	emorecognition
+sub-0051_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0051	func	bold	emorecognition
+sub-0052_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0052	func	bold	emorecognition
+sub-0053_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0053	func	bold	emorecognition
+sub-0054_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0054	func	bold	emorecognition
+sub-0055_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0055	func	bold	emorecognition
+sub-0056_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0056	func	bold	emorecognition
+sub-0057_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0057	func	bold	emorecognition
+sub-0058_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0058	func	bold	emorecognition
+sub-0059_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0059	func	bold	emorecognition
+sub-0060_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0060	func	bold	emorecognition
+sub-0061_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0061	func	bold	emorecognition
+sub-0062_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0062	func	bold	emorecognition
+sub-0063_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0063	func	bold	emorecognition
+sub-0064_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0064	func	bold	emorecognition
+sub-0065_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0065	func	bold	emorecognition
+sub-0066_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0066	func	bold	emorecognition
+sub-0067_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0067	func	bold	emorecognition
+sub-0068_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0068	func	bold	emorecognition
+sub-0069_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0069	func	bold	emorecognition
+sub-0070_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0070	func	bold	emorecognition
+sub-0071_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0071	func	bold	emorecognition
+sub-0072_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0072	func	bold	emorecognition
+sub-0073_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0073	func	bold	emorecognition
+sub-0074_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0074	func	bold	emorecognition
+sub-0075_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0075	func	bold	emorecognition
+sub-0076_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0076	func	bold	emorecognition
+sub-0077_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0077	func	bold	emorecognition
+sub-0078_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0078	func	bold	emorecognition
+sub-0079_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0079	func	bold	emorecognition
+sub-0080_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0080	func	bold	emorecognition
+sub-0081_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0081	func	bold	emorecognition
+sub-0082_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0082	func	bold	emorecognition
+sub-0083_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0083	func	bold	emorecognition
+sub-0084_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0084	func	bold	emorecognition
+sub-0085_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0085	func	bold	emorecognition
+sub-0086_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0086	func	bold	emorecognition
+sub-0087_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0087	func	bold	emorecognition
+sub-0088_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0088	func	bold	emorecognition
+sub-0089_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0089	func	bold	emorecognition
+sub-0090_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0090	func	bold	emorecognition
+sub-0091_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0091	func	bold	emorecognition
+sub-0092_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0092	func	bold	emorecognition
+sub-0093_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0093	func	bold	emorecognition
+sub-0094_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0094	func	bold	emorecognition
+sub-0095_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0095	func	bold	emorecognition
+sub-0096_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0096	func	bold	emorecognition
+sub-0097_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0097	func	bold	emorecognition
+sub-0098_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0098	func	bold	emorecognition
+sub-0099_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0099	func	bold	emorecognition
+sub-0100_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0100	func	bold	emorecognition
+sub-0101_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0101	func	bold	emorecognition
+sub-0102_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0102	func	bold	emorecognition
+sub-0103_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0103	func	bold	emorecognition
+sub-0104_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0104	func	bold	emorecognition
+sub-0105_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0105	func	bold	emorecognition
+sub-0106_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0106	func	bold	emorecognition
+sub-0107_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0107	func	bold	emorecognition
+sub-0108_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0108	func	bold	emorecognition
+sub-0109_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0109	func	bold	emorecognition
+sub-0110_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0110	func	bold	emorecognition
+sub-0112_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0112	func	bold	emorecognition
+sub-0113_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0113	func	bold	emorecognition
+sub-0114_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0114	func	bold	emorecognition
+sub-0115_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0115	func	bold	emorecognition
+sub-0116_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0116	func	bold	emorecognition
+sub-0117_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0117	func	bold	emorecognition
+sub-0118_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0118	func	bold	emorecognition
+sub-0119_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0119	func	bold	emorecognition
+sub-0120_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0120	func	bold	emorecognition
+sub-0122_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0122	func	bold	emorecognition
+sub-0123_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0123	func	bold	emorecognition
+sub-0124_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0124	func	bold	emorecognition
+sub-0125_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0125	func	bold	emorecognition
+sub-0126_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0126	func	bold	emorecognition
+sub-0128_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0128	func	bold	emorecognition
+sub-0129_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0129	func	bold	emorecognition
+sub-0130_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0130	func	bold	emorecognition
+sub-0131_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0131	func	bold	emorecognition
+sub-0132_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0132	func	bold	emorecognition
+sub-0133_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0133	func	bold	emorecognition
+sub-0134_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0134	func	bold	emorecognition
+sub-0135_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0135	func	bold	emorecognition
+sub-0136_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0136	func	bold	emorecognition
+sub-0137_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0137	func	bold	emorecognition
+sub-0138_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0138	func	bold	emorecognition
+sub-0139_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0139	func	bold	emorecognition
+sub-0140_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0140	func	bold	emorecognition
+sub-0141_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0141	func	bold	emorecognition
+sub-0142_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0142	func	bold	emorecognition
+sub-0143_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0143	func	bold	emorecognition
+sub-0144_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0144	func	bold	emorecognition
+sub-0145_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0145	func	bold	emorecognition
+sub-0146_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0146	func	bold	emorecognition
+sub-0147_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0147	func	bold	emorecognition
+sub-0148_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0148	func	bold	emorecognition
+sub-0149_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0149	func	bold	emorecognition
+sub-0152_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0152	func	bold	emorecognition
+sub-0154_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0154	func	bold	emorecognition
+sub-0155_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0155	func	bold	emorecognition
+sub-0157_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0157	func	bold	emorecognition
+sub-0158_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0158	func	bold	emorecognition
+sub-0159_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0159	func	bold	emorecognition
+sub-0166_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0166	func	bold	emorecognition
+sub-0168_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0168	func	bold	emorecognition
+sub-0169_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0169	func	bold	emorecognition
+sub-0170_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0170	func	bold	emorecognition
+sub-0171_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0171	func	bold	emorecognition
+sub-0172_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0172	func	bold	emorecognition
+sub-0173_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0173	func	bold	emorecognition
+sub-0175_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0175	func	bold	emorecognition
+sub-0177_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0177	func	bold	emorecognition
+sub-0178_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0178	func	bold	emorecognition
+sub-0179_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0179	func	bold	emorecognition
+sub-0182_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0182	func	bold	emorecognition
+sub-0183_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0183	func	bold	emorecognition
+sub-0184_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0184	func	bold	emorecognition
+sub-0185_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0185	func	bold	emorecognition
+sub-0186_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0186	func	bold	emorecognition
+sub-0187_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0187	func	bold	emorecognition
+sub-0189_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0189	func	bold	emorecognition
+sub-0190_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0190	func	bold	emorecognition
+sub-0191_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0191	func	bold	emorecognition
+sub-0192_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0192	func	bold	emorecognition
+sub-0193_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0193	func	bold	emorecognition
+sub-0194_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0194	func	bold	emorecognition
+sub-0195_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0195	func	bold	emorecognition
+sub-0198_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0198	func	bold	emorecognition
+sub-0199_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0199	func	bold	emorecognition
+sub-0200_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0200	func	bold	emorecognition
+sub-0201_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0201	func	bold	emorecognition
+sub-0202_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0202	func	bold	emorecognition
+sub-0203_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0203	func	bold	emorecognition
+sub-0204_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0204	func	bold	emorecognition
+sub-0205_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0205	func	bold	emorecognition
+sub-0206_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0206	func	bold	emorecognition
+sub-0207_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0207	func	bold	emorecognition
+sub-0208_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0208	func	bold	emorecognition
+sub-0209_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0209	func	bold	emorecognition
+sub-0210_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0210	func	bold	emorecognition
+sub-0211_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0211	func	bold	emorecognition
+sub-0212_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0212	func	bold	emorecognition
+sub-0213_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0213	func	bold	emorecognition
+sub-0214_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0214	func	bold	emorecognition
+sub-0215_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0215	func	bold	emorecognition
+sub-0216_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0216	func	bold	emorecognition
+sub-0217_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0217	func	bold	emorecognition
+sub-0218_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0218	func	bold	emorecognition
+sub-0219_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0219	func	bold	emorecognition
+sub-0220_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0220	func	bold	emorecognition
+sub-0221_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0221	func	bold	emorecognition
+sub-0222_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0222	func	bold	emorecognition
+sub-0223_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0223	func	bold	emorecognition
+sub-0224_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0224	func	bold	emorecognition
+sub-0225_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0225	func	bold	emorecognition
+sub-0226_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0226	func	bold	emorecognition
+sub-0227_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0227	func	bold	emorecognition
+sub-0228_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0228	func	bold	emorecognition
+sub-0229_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0229	func	bold	emorecognition
+sub-0230_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0230	func	bold	emorecognition
+sub-0231_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0231	func	bold	emorecognition
+sub-0233_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0233	func	bold	emorecognition
+sub-0234_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0234	func	bold	emorecognition
+sub-0235_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0235	func	bold	emorecognition
+sub-0237_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0237	func	bold	emorecognition
+sub-0238_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0238	func	bold	emorecognition
+sub-0239_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0239	func	bold	emorecognition
+sub-0240_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0240	func	bold	emorecognition
+sub-0241_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0241	func	bold	emorecognition
+sub-0242_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0242	func	bold	emorecognition
+sub-0243_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0243	func	bold	emorecognition
+sub-0244_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0244	func	bold	emorecognition
+sub-0245_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0245	func	bold	emorecognition
+sub-0246_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0246	func	bold	emorecognition
+sub-0247_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0247	func	bold	emorecognition
+sub-0248_task-emorecognition_acq-seq_bold.nii.gz	80.0	80.0	37.0	135.0	3.0	3.0	3.299999952316284	2.0	sub-0248	func	bold	emorecognition
+sub-0009_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0009	func	bold	faces
+sub-0010_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0010	func	bold	faces
+sub-0012_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0012	func	bold	faces
+sub-0014_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0014	func	bold	faces
+sub-0015_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0015	func	bold	faces
+sub-0018_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0018	func	bold	faces
+sub-0019_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0019	func	bold	faces
+sub-0020_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0020	func	bold	faces
+sub-0021_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0021	func	bold	faces
+sub-0022_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0022	func	bold	faces
+sub-0023_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0023	func	bold	faces
+sub-0025_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0025	func	bold	faces
+sub-0026_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0026	func	bold	faces
+sub-0027_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0027	func	bold	faces
+sub-0028_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0028	func	bold	faces
+sub-0029_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0029	func	bold	faces
+sub-0030_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0030	func	bold	faces
+sub-0031_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0031	func	bold	faces
+sub-0032_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0032	func	bold	faces
+sub-0033_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0033	func	bold	faces
+sub-0034_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0034	func	bold	faces
+sub-0035_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0035	func	bold	faces
+sub-0036_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0036	func	bold	faces
+sub-0037_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0037	func	bold	faces
+sub-0038_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0038	func	bold	faces
+sub-0039_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0039	func	bold	faces
+sub-0041_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0041	func	bold	faces
+sub-0042_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0042	func	bold	faces
+sub-0045_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0045	func	bold	faces
+sub-0047_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0047	func	bold	faces
+sub-0048_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0048	func	bold	faces
+sub-0049_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0049	func	bold	faces
+sub-0050_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0050	func	bold	faces
+sub-0051_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0051	func	bold	faces
+sub-0052_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0052	func	bold	faces
+sub-0053_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0053	func	bold	faces
+sub-0054_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0054	func	bold	faces
+sub-0055_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0055	func	bold	faces
+sub-0056_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0056	func	bold	faces
+sub-0057_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0057	func	bold	faces
+sub-0058_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0058	func	bold	faces
+sub-0059_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0059	func	bold	faces
+sub-0060_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0060	func	bold	faces
+sub-0061_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0061	func	bold	faces
+sub-0062_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0062	func	bold	faces
+sub-0063_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0063	func	bold	faces
+sub-0064_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0064	func	bold	faces
+sub-0065_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0065	func	bold	faces
+sub-0066_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0066	func	bold	faces
+sub-0067_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0067	func	bold	faces
+sub-0068_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0068	func	bold	faces
+sub-0069_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0069	func	bold	faces
+sub-0070_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0070	func	bold	faces
+sub-0071_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0071	func	bold	faces
+sub-0072_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0072	func	bold	faces
+sub-0073_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0073	func	bold	faces
+sub-0074_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0074	func	bold	faces
+sub-0075_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0075	func	bold	faces
+sub-0076_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0076	func	bold	faces
+sub-0077_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0077	func	bold	faces
+sub-0078_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0078	func	bold	faces
+sub-0079_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0079	func	bold	faces
+sub-0080_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0080	func	bold	faces
+sub-0081_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0081	func	bold	faces
+sub-0082_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0082	func	bold	faces
+sub-0083_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0083	func	bold	faces
+sub-0084_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0084	func	bold	faces
+sub-0085_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0085	func	bold	faces
+sub-0086_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0086	func	bold	faces
+sub-0087_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0087	func	bold	faces
+sub-0088_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0088	func	bold	faces
+sub-0089_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0089	func	bold	faces
+sub-0090_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0090	func	bold	faces
+sub-0091_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0091	func	bold	faces
+sub-0092_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0092	func	bold	faces
+sub-0093_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0093	func	bold	faces
+sub-0094_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0094	func	bold	faces
+sub-0095_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0095	func	bold	faces
+sub-0096_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0096	func	bold	faces
+sub-0097_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0097	func	bold	faces
+sub-0098_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0098	func	bold	faces
+sub-0099_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0099	func	bold	faces
+sub-0100_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0100	func	bold	faces
+sub-0101_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0101	func	bold	faces
+sub-0102_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0102	func	bold	faces
+sub-0103_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0103	func	bold	faces
+sub-0104_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0104	func	bold	faces
+sub-0105_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0105	func	bold	faces
+sub-0106_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0106	func	bold	faces
+sub-0107_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0107	func	bold	faces
+sub-0108_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0108	func	bold	faces
+sub-0109_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0109	func	bold	faces
+sub-0110_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0110	func	bold	faces
+sub-0112_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0112	func	bold	faces
+sub-0113_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0113	func	bold	faces
+sub-0114_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0114	func	bold	faces
+sub-0115_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0115	func	bold	faces
+sub-0116_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0116	func	bold	faces
+sub-0117_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0117	func	bold	faces
+sub-0118_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0118	func	bold	faces
+sub-0119_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0119	func	bold	faces
+sub-0120_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0120	func	bold	faces
+sub-0122_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0122	func	bold	faces
+sub-0123_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0123	func	bold	faces
+sub-0124_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0124	func	bold	faces
+sub-0125_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0125	func	bold	faces
+sub-0126_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0126	func	bold	faces
+sub-0128_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0128	func	bold	faces
+sub-0129_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0129	func	bold	faces
+sub-0131_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0131	func	bold	faces
+sub-0132_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0132	func	bold	faces
+sub-0133_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0133	func	bold	faces
+sub-0134_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0134	func	bold	faces
+sub-0135_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0135	func	bold	faces
+sub-0136_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0136	func	bold	faces
+sub-0137_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0137	func	bold	faces
+sub-0138_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0138	func	bold	faces
+sub-0139_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0139	func	bold	faces
+sub-0140_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0140	func	bold	faces
+sub-0141_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0141	func	bold	faces
+sub-0142_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0142	func	bold	faces
+sub-0143_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0143	func	bold	faces
+sub-0144_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0144	func	bold	faces
+sub-0145_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0145	func	bold	faces
+sub-0146_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0146	func	bold	faces
+sub-0147_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0147	func	bold	faces
+sub-0148_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0148	func	bold	faces
+sub-0149_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0149	func	bold	faces
+sub-0152_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0152	func	bold	faces
+sub-0154_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0154	func	bold	faces
+sub-0155_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0155	func	bold	faces
+sub-0157_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0157	func	bold	faces
+sub-0158_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0158	func	bold	faces
+sub-0159_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0159	func	bold	faces
+sub-0166_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0166	func	bold	faces
+sub-0169_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0169	func	bold	faces
+sub-0170_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0170	func	bold	faces
+sub-0171_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0171	func	bold	faces
+sub-0172_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0172	func	bold	faces
+sub-0173_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0173	func	bold	faces
+sub-0175_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0175	func	bold	faces
+sub-0177_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0177	func	bold	faces
+sub-0178_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0178	func	bold	faces
+sub-0182_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0182	func	bold	faces
+sub-0183_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0183	func	bold	faces
+sub-0184_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0184	func	bold	faces
+sub-0185_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0185	func	bold	faces
+sub-0186_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0186	func	bold	faces
+sub-0187_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0187	func	bold	faces
+sub-0189_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0189	func	bold	faces
+sub-0190_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0190	func	bold	faces
+sub-0191_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0191	func	bold	faces
+sub-0192_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0192	func	bold	faces
+sub-0193_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0193	func	bold	faces
+sub-0194_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0194	func	bold	faces
+sub-0195_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0195	func	bold	faces
+sub-0198_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0198	func	bold	faces
+sub-0199_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0199	func	bold	faces
+sub-0200_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0200	func	bold	faces
+sub-0201_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0201	func	bold	faces
+sub-0202_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0202	func	bold	faces
+sub-0203_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0203	func	bold	faces
+sub-0204_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0204	func	bold	faces
+sub-0205_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0205	func	bold	faces
+sub-0206_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0206	func	bold	faces
+sub-0207_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0207	func	bold	faces
+sub-0208_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0208	func	bold	faces
+sub-0209_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0209	func	bold	faces
+sub-0210_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0210	func	bold	faces
+sub-0211_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0211	func	bold	faces
+sub-0212_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0212	func	bold	faces
+sub-0213_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0213	func	bold	faces
+sub-0214_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0214	func	bold	faces
+sub-0215_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0215	func	bold	faces
+sub-0216_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0216	func	bold	faces
+sub-0217_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0217	func	bold	faces
+sub-0218_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0218	func	bold	faces
+sub-0219_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0219	func	bold	faces
+sub-0220_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0220	func	bold	faces
+sub-0221_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0221	func	bold	faces
+sub-0222_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0222	func	bold	faces
+sub-0223_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0223	func	bold	faces
+sub-0225_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0225	func	bold	faces
+sub-0226_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0226	func	bold	faces
+sub-0227_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0227	func	bold	faces
+sub-0228_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0228	func	bold	faces
+sub-0229_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0229	func	bold	faces
+sub-0230_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0230	func	bold	faces
+sub-0231_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0231	func	bold	faces
+sub-0233_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0233	func	bold	faces
+sub-0234_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0234	func	bold	faces
+sub-0235_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0235	func	bold	faces
+sub-0237_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0237	func	bold	faces
+sub-0238_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0238	func	bold	faces
+sub-0239_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0239	func	bold	faces
+sub-0240_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0240	func	bold	faces
+sub-0241_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0241	func	bold	faces
+sub-0242_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0242	func	bold	faces
+sub-0243_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0243	func	bold	faces
+sub-0244_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0244	func	bold	faces
+sub-0245_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0245	func	bold	faces
+sub-0246_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0246	func	bold	faces
+sub-0247_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0247	func	bold	faces
+sub-0248_task-faces_acq-mb3_bold.nii.gz	80.0	80.0	36.0	330.0	3.0	3.0	3.299999952316284	0.75	sub-0248	func	bold	faces
+sub-0010_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0010	func	bold	gstroop
+sub-0012_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0012	func	bold	gstroop
+sub-0013_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0013	func	bold	gstroop
+sub-0014_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0014	func	bold	gstroop
+sub-0015_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0015	func	bold	gstroop
+sub-0018_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0018	func	bold	gstroop
+sub-0019_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0019	func	bold	gstroop
+sub-0020_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0020	func	bold	gstroop
+sub-0021_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0021	func	bold	gstroop
+sub-0022_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0022	func	bold	gstroop
+sub-0023_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0023	func	bold	gstroop
+sub-0025_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0025	func	bold	gstroop
+sub-0026_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0026	func	bold	gstroop
+sub-0027_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0027	func	bold	gstroop
+sub-0028_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0028	func	bold	gstroop
+sub-0029_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0029	func	bold	gstroop
+sub-0030_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0030	func	bold	gstroop
+sub-0031_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0031	func	bold	gstroop
+sub-0032_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0032	func	bold	gstroop
+sub-0033_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0033	func	bold	gstroop
+sub-0034_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0034	func	bold	gstroop
+sub-0035_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0035	func	bold	gstroop
+sub-0036_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0036	func	bold	gstroop
+sub-0037_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0037	func	bold	gstroop
+sub-0038_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0038	func	bold	gstroop
+sub-0039_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0039	func	bold	gstroop
+sub-0041_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0041	func	bold	gstroop
+sub-0042_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0042	func	bold	gstroop
+sub-0045_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0045	func	bold	gstroop
+sub-0046_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0046	func	bold	gstroop
+sub-0047_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0047	func	bold	gstroop
+sub-0048_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0048	func	bold	gstroop
+sub-0049_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0049	func	bold	gstroop
+sub-0050_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0050	func	bold	gstroop
+sub-0051_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0051	func	bold	gstroop
+sub-0052_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0052	func	bold	gstroop
+sub-0053_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0053	func	bold	gstroop
+sub-0054_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0054	func	bold	gstroop
+sub-0055_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0055	func	bold	gstroop
+sub-0056_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0056	func	bold	gstroop
+sub-0057_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0057	func	bold	gstroop
+sub-0058_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0058	func	bold	gstroop
+sub-0059_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0059	func	bold	gstroop
+sub-0060_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0060	func	bold	gstroop
+sub-0061_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0061	func	bold	gstroop
+sub-0062_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0062	func	bold	gstroop
+sub-0063_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0063	func	bold	gstroop
+sub-0064_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0064	func	bold	gstroop
+sub-0065_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0065	func	bold	gstroop
+sub-0066_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0066	func	bold	gstroop
+sub-0067_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0067	func	bold	gstroop
+sub-0068_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0068	func	bold	gstroop
+sub-0069_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0069	func	bold	gstroop
+sub-0070_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0070	func	bold	gstroop
+sub-0071_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0071	func	bold	gstroop
+sub-0072_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0072	func	bold	gstroop
+sub-0073_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0073	func	bold	gstroop
+sub-0074_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0074	func	bold	gstroop
+sub-0075_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0075	func	bold	gstroop
+sub-0076_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0076	func	bold	gstroop
+sub-0077_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0077	func	bold	gstroop
+sub-0078_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0078	func	bold	gstroop
+sub-0079_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0079	func	bold	gstroop
+sub-0080_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0080	func	bold	gstroop
+sub-0081_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0081	func	bold	gstroop
+sub-0082_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0082	func	bold	gstroop
+sub-0083_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0083	func	bold	gstroop
+sub-0084_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0084	func	bold	gstroop
+sub-0085_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0085	func	bold	gstroop
+sub-0086_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0086	func	bold	gstroop
+sub-0087_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0087	func	bold	gstroop
+sub-0088_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0088	func	bold	gstroop
+sub-0089_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0089	func	bold	gstroop
+sub-0090_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0090	func	bold	gstroop
+sub-0091_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0091	func	bold	gstroop
+sub-0092_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0092	func	bold	gstroop
+sub-0093_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0093	func	bold	gstroop
+sub-0094_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0094	func	bold	gstroop
+sub-0095_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0095	func	bold	gstroop
+sub-0097_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0097	func	bold	gstroop
+sub-0098_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0098	func	bold	gstroop
+sub-0099_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0099	func	bold	gstroop
+sub-0100_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0100	func	bold	gstroop
+sub-0101_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0101	func	bold	gstroop
+sub-0102_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0102	func	bold	gstroop
+sub-0103_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0103	func	bold	gstroop
+sub-0104_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0104	func	bold	gstroop
+sub-0105_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0105	func	bold	gstroop
+sub-0106_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0106	func	bold	gstroop
+sub-0107_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0107	func	bold	gstroop
+sub-0108_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0108	func	bold	gstroop
+sub-0109_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0109	func	bold	gstroop
+sub-0110_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0110	func	bold	gstroop
+sub-0112_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0112	func	bold	gstroop
+sub-0113_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0113	func	bold	gstroop
+sub-0114_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0114	func	bold	gstroop
+sub-0115_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0115	func	bold	gstroop
+sub-0116_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0116	func	bold	gstroop
+sub-0117_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0117	func	bold	gstroop
+sub-0118_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0118	func	bold	gstroop
+sub-0119_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0119	func	bold	gstroop
+sub-0120_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0120	func	bold	gstroop
+sub-0122_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0122	func	bold	gstroop
+sub-0123_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0123	func	bold	gstroop
+sub-0124_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0124	func	bold	gstroop
+sub-0125_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0125	func	bold	gstroop
+sub-0126_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0126	func	bold	gstroop
+sub-0128_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0128	func	bold	gstroop
+sub-0129_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0129	func	bold	gstroop
+sub-0130_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0130	func	bold	gstroop
+sub-0131_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0131	func	bold	gstroop
+sub-0132_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0132	func	bold	gstroop
+sub-0133_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0133	func	bold	gstroop
+sub-0134_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0134	func	bold	gstroop
+sub-0135_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0135	func	bold	gstroop
+sub-0136_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0136	func	bold	gstroop
+sub-0137_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0137	func	bold	gstroop
+sub-0138_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0138	func	bold	gstroop
+sub-0139_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0139	func	bold	gstroop
+sub-0140_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0140	func	bold	gstroop
+sub-0141_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0141	func	bold	gstroop
+sub-0142_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0142	func	bold	gstroop
+sub-0143_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0143	func	bold	gstroop
+sub-0144_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0144	func	bold	gstroop
+sub-0145_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0145	func	bold	gstroop
+sub-0146_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0146	func	bold	gstroop
+sub-0147_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0147	func	bold	gstroop
+sub-0148_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0148	func	bold	gstroop
+sub-0149_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0149	func	bold	gstroop
+sub-0152_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0152	func	bold	gstroop
+sub-0154_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0154	func	bold	gstroop
+sub-0155_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0155	func	bold	gstroop
+sub-0157_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0157	func	bold	gstroop
+sub-0158_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0158	func	bold	gstroop
+sub-0159_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0159	func	bold	gstroop
+sub-0166_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0166	func	bold	gstroop
+sub-0168_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0168	func	bold	gstroop
+sub-0169_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0169	func	bold	gstroop
+sub-0170_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0170	func	bold	gstroop
+sub-0171_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0171	func	bold	gstroop
+sub-0172_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0172	func	bold	gstroop
+sub-0173_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0173	func	bold	gstroop
+sub-0175_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0175	func	bold	gstroop
+sub-0177_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0177	func	bold	gstroop
+sub-0178_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0178	func	bold	gstroop
+sub-0182_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0182	func	bold	gstroop
+sub-0183_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0183	func	bold	gstroop
+sub-0184_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0184	func	bold	gstroop
+sub-0185_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0185	func	bold	gstroop
+sub-0186_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0186	func	bold	gstroop
+sub-0187_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0187	func	bold	gstroop
+sub-0189_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0189	func	bold	gstroop
+sub-0190_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0190	func	bold	gstroop
+sub-0191_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0191	func	bold	gstroop
+sub-0192_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0192	func	bold	gstroop
+sub-0193_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0193	func	bold	gstroop
+sub-0194_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0194	func	bold	gstroop
+sub-0195_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0195	func	bold	gstroop
+sub-0198_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0198	func	bold	gstroop
+sub-0199_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0199	func	bold	gstroop
+sub-0200_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0200	func	bold	gstroop
+sub-0201_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0201	func	bold	gstroop
+sub-0202_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0202	func	bold	gstroop
+sub-0203_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0203	func	bold	gstroop
+sub-0204_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0204	func	bold	gstroop
+sub-0205_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0205	func	bold	gstroop
+sub-0206_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0206	func	bold	gstroop
+sub-0207_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0207	func	bold	gstroop
+sub-0208_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0208	func	bold	gstroop
+sub-0209_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0209	func	bold	gstroop
+sub-0210_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0210	func	bold	gstroop
+sub-0211_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0211	func	bold	gstroop
+sub-0212_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0212	func	bold	gstroop
+sub-0213_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0213	func	bold	gstroop
+sub-0214_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0214	func	bold	gstroop
+sub-0215_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0215	func	bold	gstroop
+sub-0216_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0216	func	bold	gstroop
+sub-0217_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0217	func	bold	gstroop
+sub-0218_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0218	func	bold	gstroop
+sub-0219_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0219	func	bold	gstroop
+sub-0220_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0220	func	bold	gstroop
+sub-0221_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0221	func	bold	gstroop
+sub-0222_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0222	func	bold	gstroop
+sub-0223_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0223	func	bold	gstroop
+sub-0224_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0224	func	bold	gstroop
+sub-0225_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0225	func	bold	gstroop
+sub-0226_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0226	func	bold	gstroop
+sub-0227_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0227	func	bold	gstroop
+sub-0228_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0228	func	bold	gstroop
+sub-0229_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0229	func	bold	gstroop
+sub-0230_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0230	func	bold	gstroop
+sub-0231_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0231	func	bold	gstroop
+sub-0233_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0233	func	bold	gstroop
+sub-0234_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0234	func	bold	gstroop
+sub-0235_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0235	func	bold	gstroop
+sub-0237_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0237	func	bold	gstroop
+sub-0238_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0238	func	bold	gstroop
+sub-0239_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0239	func	bold	gstroop
+sub-0241_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0241	func	bold	gstroop
+sub-0242_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0242	func	bold	gstroop
+sub-0243_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0243	func	bold	gstroop
+sub-0244_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0244	func	bold	gstroop
+sub-0245_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0245	func	bold	gstroop
+sub-0246_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0246	func	bold	gstroop
+sub-0247_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0247	func	bold	gstroop
+sub-0248_task-gstroop_acq-seq_bold.nii.gz	80.0	80.0	37.0	245.0	3.0	3.0	3.299999952316284	2.0	sub-0248	func	bold	gstroop
+sub-0001_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0001	func	bold	restingstate
+sub-0003_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0003	func	bold	restingstate
+sub-0004_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0004	func	bold	restingstate
+sub-0005_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0005	func	bold	restingstate
+sub-0006_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0006	func	bold	restingstate
+sub-0007_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0007	func	bold	restingstate
+sub-0009_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0009	func	bold	restingstate
+sub-0010_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0010	func	bold	restingstate
+sub-0012_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0012	func	bold	restingstate
+sub-0014_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0014	func	bold	restingstate
+sub-0015_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0015	func	bold	restingstate
+sub-0018_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0018	func	bold	restingstate
+sub-0019_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0019	func	bold	restingstate
+sub-0020_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0020	func	bold	restingstate
+sub-0021_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0021	func	bold	restingstate
+sub-0022_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0022	func	bold	restingstate
+sub-0023_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0023	func	bold	restingstate
+sub-0025_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0025	func	bold	restingstate
+sub-0026_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0026	func	bold	restingstate
+sub-0027_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0027	func	bold	restingstate
+sub-0028_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0028	func	bold	restingstate
+sub-0029_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0029	func	bold	restingstate
+sub-0030_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0030	func	bold	restingstate
+sub-0031_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0031	func	bold	restingstate
+sub-0032_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0032	func	bold	restingstate
+sub-0033_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0033	func	bold	restingstate
+sub-0034_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0034	func	bold	restingstate
+sub-0035_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0035	func	bold	restingstate
+sub-0036_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0036	func	bold	restingstate
+sub-0037_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0037	func	bold	restingstate
+sub-0038_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0038	func	bold	restingstate
+sub-0039_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0039	func	bold	restingstate
+sub-0041_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0041	func	bold	restingstate
+sub-0042_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0042	func	bold	restingstate
+sub-0045_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0045	func	bold	restingstate
+sub-0046_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0046	func	bold	restingstate
+sub-0047_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0047	func	bold	restingstate
+sub-0048_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0048	func	bold	restingstate
+sub-0049_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0049	func	bold	restingstate
+sub-0050_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0050	func	bold	restingstate
+sub-0051_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0051	func	bold	restingstate
+sub-0052_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0052	func	bold	restingstate
+sub-0053_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0053	func	bold	restingstate
+sub-0054_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0054	func	bold	restingstate
+sub-0055_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0055	func	bold	restingstate
+sub-0056_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0056	func	bold	restingstate
+sub-0057_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0057	func	bold	restingstate
+sub-0058_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0058	func	bold	restingstate
+sub-0059_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0059	func	bold	restingstate
+sub-0060_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0060	func	bold	restingstate
+sub-0061_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0061	func	bold	restingstate
+sub-0062_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0062	func	bold	restingstate
+sub-0063_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0063	func	bold	restingstate
+sub-0064_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0064	func	bold	restingstate
+sub-0065_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0065	func	bold	restingstate
+sub-0066_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0066	func	bold	restingstate
+sub-0067_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0067	func	bold	restingstate
+sub-0068_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0068	func	bold	restingstate
+sub-0069_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0069	func	bold	restingstate
+sub-0070_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0070	func	bold	restingstate
+sub-0071_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0071	func	bold	restingstate
+sub-0072_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0072	func	bold	restingstate
+sub-0073_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0073	func	bold	restingstate
+sub-0074_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0074	func	bold	restingstate
+sub-0075_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0075	func	bold	restingstate
+sub-0076_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0076	func	bold	restingstate
+sub-0077_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0077	func	bold	restingstate
+sub-0078_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0078	func	bold	restingstate
+sub-0079_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0079	func	bold	restingstate
+sub-0080_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0080	func	bold	restingstate
+sub-0081_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0081	func	bold	restingstate
+sub-0082_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0082	func	bold	restingstate
+sub-0083_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0083	func	bold	restingstate
+sub-0084_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0084	func	bold	restingstate
+sub-0085_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0085	func	bold	restingstate
+sub-0086_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0086	func	bold	restingstate
+sub-0087_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0087	func	bold	restingstate
+sub-0088_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0088	func	bold	restingstate
+sub-0089_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0089	func	bold	restingstate
+sub-0090_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0090	func	bold	restingstate
+sub-0091_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0091	func	bold	restingstate
+sub-0092_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0092	func	bold	restingstate
+sub-0093_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0093	func	bold	restingstate
+sub-0094_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0094	func	bold	restingstate
+sub-0095_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0095	func	bold	restingstate
+sub-0096_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0096	func	bold	restingstate
+sub-0097_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0097	func	bold	restingstate
+sub-0098_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0098	func	bold	restingstate
+sub-0099_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0099	func	bold	restingstate
+sub-0100_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0100	func	bold	restingstate
+sub-0101_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0101	func	bold	restingstate
+sub-0102_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0102	func	bold	restingstate
+sub-0103_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0103	func	bold	restingstate
+sub-0104_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0104	func	bold	restingstate
+sub-0105_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0105	func	bold	restingstate
+sub-0106_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0106	func	bold	restingstate
+sub-0107_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0107	func	bold	restingstate
+sub-0108_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0108	func	bold	restingstate
+sub-0109_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0109	func	bold	restingstate
+sub-0110_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0110	func	bold	restingstate
+sub-0112_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0112	func	bold	restingstate
+sub-0113_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0113	func	bold	restingstate
+sub-0114_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0114	func	bold	restingstate
+sub-0115_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0115	func	bold	restingstate
+sub-0116_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0116	func	bold	restingstate
+sub-0117_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0117	func	bold	restingstate
+sub-0118_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0118	func	bold	restingstate
+sub-0119_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0119	func	bold	restingstate
+sub-0120_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0120	func	bold	restingstate
+sub-0122_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0122	func	bold	restingstate
+sub-0123_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0123	func	bold	restingstate
+sub-0124_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0124	func	bold	restingstate
+sub-0125_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0125	func	bold	restingstate
+sub-0126_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0126	func	bold	restingstate
+sub-0128_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0128	func	bold	restingstate
+sub-0130_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0130	func	bold	restingstate
+sub-0131_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0131	func	bold	restingstate
+sub-0132_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0132	func	bold	restingstate
+sub-0133_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0133	func	bold	restingstate
+sub-0134_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0134	func	bold	restingstate
+sub-0135_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0135	func	bold	restingstate
+sub-0136_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0136	func	bold	restingstate
+sub-0137_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0137	func	bold	restingstate
+sub-0138_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0138	func	bold	restingstate
+sub-0139_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0139	func	bold	restingstate
+sub-0140_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0140	func	bold	restingstate
+sub-0141_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0141	func	bold	restingstate
+sub-0142_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0142	func	bold	restingstate
+sub-0143_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0143	func	bold	restingstate
+sub-0144_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0144	func	bold	restingstate
+sub-0145_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0145	func	bold	restingstate
+sub-0146_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0146	func	bold	restingstate
+sub-0147_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0147	func	bold	restingstate
+sub-0148_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0148	func	bold	restingstate
+sub-0149_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0149	func	bold	restingstate
+sub-0152_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0152	func	bold	restingstate
+sub-0154_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0154	func	bold	restingstate
+sub-0155_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0155	func	bold	restingstate
+sub-0156_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0156	func	bold	restingstate
+sub-0157_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0157	func	bold	restingstate
+sub-0158_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0158	func	bold	restingstate
+sub-0159_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0159	func	bold	restingstate
+sub-0166_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0166	func	bold	restingstate
+sub-0169_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0169	func	bold	restingstate
+sub-0170_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0170	func	bold	restingstate
+sub-0171_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0171	func	bold	restingstate
+sub-0172_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0172	func	bold	restingstate
+sub-0173_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0173	func	bold	restingstate
+sub-0175_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0175	func	bold	restingstate
+sub-0177_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0177	func	bold	restingstate
+sub-0178_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0178	func	bold	restingstate
+sub-0179_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0179	func	bold	restingstate
+sub-0183_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0183	func	bold	restingstate
+sub-0184_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0184	func	bold	restingstate
+sub-0186_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0186	func	bold	restingstate
+sub-0187_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0187	func	bold	restingstate
+sub-0189_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0189	func	bold	restingstate
+sub-0190_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0190	func	bold	restingstate
+sub-0191_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0191	func	bold	restingstate
+sub-0192_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0192	func	bold	restingstate
+sub-0193_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0193	func	bold	restingstate
+sub-0194_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0194	func	bold	restingstate
+sub-0195_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0195	func	bold	restingstate
+sub-0198_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0198	func	bold	restingstate
+sub-0199_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0199	func	bold	restingstate
+sub-0200_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0200	func	bold	restingstate
+sub-0201_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0201	func	bold	restingstate
+sub-0202_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0202	func	bold	restingstate
+sub-0203_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0203	func	bold	restingstate
+sub-0204_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0204	func	bold	restingstate
+sub-0205_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0205	func	bold	restingstate
+sub-0206_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0206	func	bold	restingstate
+sub-0207_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0207	func	bold	restingstate
+sub-0208_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0208	func	bold	restingstate
+sub-0209_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0209	func	bold	restingstate
+sub-0210_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0210	func	bold	restingstate
+sub-0211_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0211	func	bold	restingstate
+sub-0212_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0212	func	bold	restingstate
+sub-0213_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0213	func	bold	restingstate
+sub-0214_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0214	func	bold	restingstate
+sub-0215_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0215	func	bold	restingstate
+sub-0216_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0216	func	bold	restingstate
+sub-0217_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0217	func	bold	restingstate
+sub-0218_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0218	func	bold	restingstate
+sub-0219_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0219	func	bold	restingstate
+sub-0220_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0220	func	bold	restingstate
+sub-0221_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0221	func	bold	restingstate
+sub-0222_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0222	func	bold	restingstate
+sub-0223_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0223	func	bold	restingstate
+sub-0225_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0225	func	bold	restingstate
+sub-0226_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0226	func	bold	restingstate
+sub-0227_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0227	func	bold	restingstate
+sub-0228_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0228	func	bold	restingstate
+sub-0229_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0229	func	bold	restingstate
+sub-0230_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0230	func	bold	restingstate
+sub-0231_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0231	func	bold	restingstate
+sub-0233_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0233	func	bold	restingstate
+sub-0234_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0234	func	bold	restingstate
+sub-0235_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0235	func	bold	restingstate
+sub-0237_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0237	func	bold	restingstate
+sub-0238_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0238	func	bold	restingstate
+sub-0239_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0239	func	bold	restingstate
+sub-0240_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0240	func	bold	restingstate
+sub-0242_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0242	func	bold	restingstate
+sub-0243_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0243	func	bold	restingstate
+sub-0244_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0244	func	bold	restingstate
+sub-0245_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0245	func	bold	restingstate
+sub-0246_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0246	func	bold	restingstate
+sub-0247_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0247	func	bold	restingstate
+sub-0248_task-restingstate_acq-mb3_bold.nii.gz	80.0	80.0	36.0	480.0	3.0	3.0	3.299999952316284	0.75	sub-0248	func	bold	restingstate
+sub-0010_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0010	func	bold	workingmemory
+sub-0012_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0012	func	bold	workingmemory
+sub-0013_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0013	func	bold	workingmemory
+sub-0014_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0014	func	bold	workingmemory
+sub-0015_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0015	func	bold	workingmemory
+sub-0018_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0018	func	bold	workingmemory
+sub-0019_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0019	func	bold	workingmemory
+sub-0020_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0020	func	bold	workingmemory
+sub-0021_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0021	func	bold	workingmemory
+sub-0022_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0022	func	bold	workingmemory
+sub-0023_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0023	func	bold	workingmemory
+sub-0025_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0025	func	bold	workingmemory
+sub-0026_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0026	func	bold	workingmemory
+sub-0027_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0027	func	bold	workingmemory
+sub-0028_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0028	func	bold	workingmemory
+sub-0029_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0029	func	bold	workingmemory
+sub-0030_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0030	func	bold	workingmemory
+sub-0031_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0031	func	bold	workingmemory
+sub-0032_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0032	func	bold	workingmemory
+sub-0033_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0033	func	bold	workingmemory
+sub-0034_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0034	func	bold	workingmemory
+sub-0035_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0035	func	bold	workingmemory
+sub-0036_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0036	func	bold	workingmemory
+sub-0037_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0037	func	bold	workingmemory
+sub-0038_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0038	func	bold	workingmemory
+sub-0039_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0039	func	bold	workingmemory
+sub-0041_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0041	func	bold	workingmemory
+sub-0042_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0042	func	bold	workingmemory
+sub-0045_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0045	func	bold	workingmemory
+sub-0046_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0046	func	bold	workingmemory
+sub-0047_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0047	func	bold	workingmemory
+sub-0048_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0048	func	bold	workingmemory
+sub-0049_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0049	func	bold	workingmemory
+sub-0050_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0050	func	bold	workingmemory
+sub-0051_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0051	func	bold	workingmemory
+sub-0052_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0052	func	bold	workingmemory
+sub-0053_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0053	func	bold	workingmemory
+sub-0054_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0054	func	bold	workingmemory
+sub-0055_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0055	func	bold	workingmemory
+sub-0056_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0056	func	bold	workingmemory
+sub-0057_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0057	func	bold	workingmemory
+sub-0058_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0058	func	bold	workingmemory
+sub-0059_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0059	func	bold	workingmemory
+sub-0060_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0060	func	bold	workingmemory
+sub-0061_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0061	func	bold	workingmemory
+sub-0062_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0062	func	bold	workingmemory
+sub-0063_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0063	func	bold	workingmemory
+sub-0064_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0064	func	bold	workingmemory
+sub-0065_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0065	func	bold	workingmemory
+sub-0066_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0066	func	bold	workingmemory
+sub-0067_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0067	func	bold	workingmemory
+sub-0068_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0068	func	bold	workingmemory
+sub-0069_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0069	func	bold	workingmemory
+sub-0070_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0070	func	bold	workingmemory
+sub-0071_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0071	func	bold	workingmemory
+sub-0072_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0072	func	bold	workingmemory
+sub-0073_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0073	func	bold	workingmemory
+sub-0074_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0074	func	bold	workingmemory
+sub-0075_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0075	func	bold	workingmemory
+sub-0076_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0076	func	bold	workingmemory
+sub-0077_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0077	func	bold	workingmemory
+sub-0078_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0078	func	bold	workingmemory
+sub-0079_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0079	func	bold	workingmemory
+sub-0080_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0080	func	bold	workingmemory
+sub-0081_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0081	func	bold	workingmemory
+sub-0083_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0083	func	bold	workingmemory
+sub-0084_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0084	func	bold	workingmemory
+sub-0085_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0085	func	bold	workingmemory
+sub-0086_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0086	func	bold	workingmemory
+sub-0087_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0087	func	bold	workingmemory
+sub-0088_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0088	func	bold	workingmemory
+sub-0089_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0089	func	bold	workingmemory
+sub-0090_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0090	func	bold	workingmemory
+sub-0091_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0091	func	bold	workingmemory
+sub-0092_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0092	func	bold	workingmemory
+sub-0093_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0093	func	bold	workingmemory
+sub-0094_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0094	func	bold	workingmemory
+sub-0095_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0095	func	bold	workingmemory
+sub-0096_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0096	func	bold	workingmemory
+sub-0097_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0097	func	bold	workingmemory
+sub-0098_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0098	func	bold	workingmemory
+sub-0099_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0099	func	bold	workingmemory
+sub-0100_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0100	func	bold	workingmemory
+sub-0101_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0101	func	bold	workingmemory
+sub-0102_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0102	func	bold	workingmemory
+sub-0103_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0103	func	bold	workingmemory
+sub-0104_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0104	func	bold	workingmemory
+sub-0105_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0105	func	bold	workingmemory
+sub-0106_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0106	func	bold	workingmemory
+sub-0107_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0107	func	bold	workingmemory
+sub-0108_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0108	func	bold	workingmemory
+sub-0109_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0109	func	bold	workingmemory
+sub-0110_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0110	func	bold	workingmemory
+sub-0112_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0112	func	bold	workingmemory
+sub-0113_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0113	func	bold	workingmemory
+sub-0114_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0114	func	bold	workingmemory
+sub-0115_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0115	func	bold	workingmemory
+sub-0116_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0116	func	bold	workingmemory
+sub-0117_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0117	func	bold	workingmemory
+sub-0118_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0118	func	bold	workingmemory
+sub-0119_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0119	func	bold	workingmemory
+sub-0120_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0120	func	bold	workingmemory
+sub-0122_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0122	func	bold	workingmemory
+sub-0123_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0123	func	bold	workingmemory
+sub-0124_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0124	func	bold	workingmemory
+sub-0125_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0125	func	bold	workingmemory
+sub-0126_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0126	func	bold	workingmemory
+sub-0128_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0128	func	bold	workingmemory
+sub-0129_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0129	func	bold	workingmemory
+sub-0130_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0130	func	bold	workingmemory
+sub-0131_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0131	func	bold	workingmemory
+sub-0132_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0132	func	bold	workingmemory
+sub-0133_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0133	func	bold	workingmemory
+sub-0134_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0134	func	bold	workingmemory
+sub-0135_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0135	func	bold	workingmemory
+sub-0136_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0136	func	bold	workingmemory
+sub-0137_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0137	func	bold	workingmemory
+sub-0138_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0138	func	bold	workingmemory
+sub-0139_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0139	func	bold	workingmemory
+sub-0140_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0140	func	bold	workingmemory
+sub-0141_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0141	func	bold	workingmemory
+sub-0142_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0142	func	bold	workingmemory
+sub-0143_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0143	func	bold	workingmemory
+sub-0144_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0144	func	bold	workingmemory
+sub-0145_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0145	func	bold	workingmemory
+sub-0146_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0146	func	bold	workingmemory
+sub-0147_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0147	func	bold	workingmemory
+sub-0148_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0148	func	bold	workingmemory
+sub-0149_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0149	func	bold	workingmemory
+sub-0152_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0152	func	bold	workingmemory
+sub-0154_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0154	func	bold	workingmemory
+sub-0155_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0155	func	bold	workingmemory
+sub-0156_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0156	func	bold	workingmemory
+sub-0157_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0157	func	bold	workingmemory
+sub-0158_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0158	func	bold	workingmemory
+sub-0159_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0159	func	bold	workingmemory
+sub-0166_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0166	func	bold	workingmemory
+sub-0168_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0168	func	bold	workingmemory
+sub-0169_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0169	func	bold	workingmemory
+sub-0170_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0170	func	bold	workingmemory
+sub-0171_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0171	func	bold	workingmemory
+sub-0172_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0172	func	bold	workingmemory
+sub-0173_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0173	func	bold	workingmemory
+sub-0175_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0175	func	bold	workingmemory
+sub-0177_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0177	func	bold	workingmemory
+sub-0178_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0178	func	bold	workingmemory
+sub-0179_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0179	func	bold	workingmemory
+sub-0182_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0182	func	bold	workingmemory
+sub-0183_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0183	func	bold	workingmemory
+sub-0184_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0184	func	bold	workingmemory
+sub-0185_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0185	func	bold	workingmemory
+sub-0186_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0186	func	bold	workingmemory
+sub-0187_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0187	func	bold	workingmemory
+sub-0189_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0189	func	bold	workingmemory
+sub-0190_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0190	func	bold	workingmemory
+sub-0191_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0191	func	bold	workingmemory
+sub-0192_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0192	func	bold	workingmemory
+sub-0193_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0193	func	bold	workingmemory
+sub-0194_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0194	func	bold	workingmemory
+sub-0195_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0195	func	bold	workingmemory
+sub-0198_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0198	func	bold	workingmemory
+sub-0199_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0199	func	bold	workingmemory
+sub-0200_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0200	func	bold	workingmemory
+sub-0201_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0201	func	bold	workingmemory
+sub-0202_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0202	func	bold	workingmemory
+sub-0203_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0203	func	bold	workingmemory
+sub-0204_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0204	func	bold	workingmemory
+sub-0205_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0205	func	bold	workingmemory
+sub-0206_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0206	func	bold	workingmemory
+sub-0207_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0207	func	bold	workingmemory
+sub-0208_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0208	func	bold	workingmemory
+sub-0209_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0209	func	bold	workingmemory
+sub-0210_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0210	func	bold	workingmemory
+sub-0211_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0211	func	bold	workingmemory
+sub-0212_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0212	func	bold	workingmemory
+sub-0213_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0213	func	bold	workingmemory
+sub-0214_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0214	func	bold	workingmemory
+sub-0215_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0215	func	bold	workingmemory
+sub-0216_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0216	func	bold	workingmemory
+sub-0217_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0217	func	bold	workingmemory
+sub-0218_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0218	func	bold	workingmemory
+sub-0219_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0219	func	bold	workingmemory
+sub-0220_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0220	func	bold	workingmemory
+sub-0221_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0221	func	bold	workingmemory
+sub-0222_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0222	func	bold	workingmemory
+sub-0223_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0223	func	bold	workingmemory
+sub-0224_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0224	func	bold	workingmemory
+sub-0225_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0225	func	bold	workingmemory
+sub-0226_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0226	func	bold	workingmemory
+sub-0227_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0227	func	bold	workingmemory
+sub-0228_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0228	func	bold	workingmemory
+sub-0229_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0229	func	bold	workingmemory
+sub-0230_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0230	func	bold	workingmemory
+sub-0231_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0231	func	bold	workingmemory
+sub-0233_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0233	func	bold	workingmemory
+sub-0234_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0234	func	bold	workingmemory
+sub-0235_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0235	func	bold	workingmemory
+sub-0237_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0237	func	bold	workingmemory
+sub-0238_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0238	func	bold	workingmemory
+sub-0239_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0239	func	bold	workingmemory
+sub-0240_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0240	func	bold	workingmemory
+sub-0241_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0241	func	bold	workingmemory
+sub-0242_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0242	func	bold	workingmemory
+sub-0243_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0243	func	bold	workingmemory
+sub-0244_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0244	func	bold	workingmemory
+sub-0245_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0245	func	bold	workingmemory
+sub-0246_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0246	func	bold	workingmemory
+sub-0247_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0247	func	bold	workingmemory
+sub-0248_task-workingmemory_acq-seq_bold.nii.gz	80.0	80.0	37.0	162.0	3.0	3.0	3.299999952316284	2.0	sub-0248	func	bold	workingmemory

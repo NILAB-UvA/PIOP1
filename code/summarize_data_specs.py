@@ -6,16 +6,18 @@ from glob import glob
 from tqdm import tqdm
 
 
-def summarize_data_specs(bids_dir, out_dir=None):
+def summarize_data_specs(data_dir, out_dir=None):
 
     if out_dir is None:
-        out_dir = bids_dir
+        out_dir = data_dir
 
-    files = sorted(glob(op.join(bids_dir, 'sub-*', '*', '*.nii.gz')))
+    files = sorted(glob(op.join(data_dir, 'sub-*', '*', '*.nii.gz')))
 
     if not files:
-        files = sorted(glob(op.join(bids_dir, 'sub-*', '*', 'ses-*', '*.nii.gz')))
-    
+        files = sorted(glob(op.join(data_dir, 'sub-*', '*', 'ses-*', '*.nii.gz')))
+   
+    files = [f for f in files if 'bold.' in f or 'T1w.' in f or 'dwi.' in f or 'phasediff' in f]
+
     n = len(files)
     df = dict(
         x_dim=np.zeros(n),
@@ -52,12 +54,13 @@ def summarize_data_specs(bids_dir, out_dir=None):
     df['file_type'] = [op.basename(f).split('_')[-1].split('.')[0] for f in files]
     df['taskname'] = [op.basename(f).split('_task-')[-1].split('_')[0] if 'task' in op.basename(f)
                       else np.nan for f in files]
+    df['space'] = [op.basename(f).split('_space-')[-1].split('_')[0] if 'space' in op.basename(f)
+                   else np.nan for f in files]
     df = pd.DataFrame(df)
-    df = df.sort_values(by=['data_type', 'file_type', 'taskname', 'participant_label']).set_index('files')
+    df = df.sort_values(by=['data_type', 'file_type', 'taskname', 'space', 'participant_label']).set_index('files')
     
     df.to_csv(op.join(out_dir, 'scans.tsv'), sep='\t', index=True)
 
 
-
 if __name__ == '__main__':
-    summarize_data_specs('/home/lsnoek1/projects/PIOP1/bids')
+    summarize_data_specs('/home/lsnoek1/projects/PIOP1/bids/derivatives/fmriprep')
