@@ -21,7 +21,8 @@
     "Description": "Which hand was used to respond",
     "Levels": {
       "left": "left hand",
-      "right": "right hand"
+      "right": "right hand",
+      "n/a": "no response (missed trial)"
     }
   },
   "img_gender": {

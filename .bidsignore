@@ -1,4 +1,5 @@
 **/*.phy
 **/*.edf
 **/*.txt
+**/*.mat
 LICENSE

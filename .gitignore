@@ -107,5 +107,5 @@ venv.bak/
 sub-????
 derivatives
 participants.tsv
-code/fmriprep_fork
 **/.vscode
+code/analysis/results

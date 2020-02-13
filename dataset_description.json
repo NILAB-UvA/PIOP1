@@ -5,7 +5,7 @@
     "Authors": ["Lukas Snoek", "Maite van der Miesen", "Andries van der Leij", "Tinka Beemsterboer", "Annemarie Eigenhuis", "Steven Scholte"],
     "Acknowledgements": "We thank the scan-assistants for helping with the data acquisition and Jasper Wijnen and Marco Teunissen for assistance with anonymization and privacy concerns",
     "HowToAcknowledge": "[LINK TO PREPRINT]",
-    "Funding": "[ASK STEVEN]",
+    "Funding": ["[ASK STEVEN]"],
     "ReferencesAndLinks": ["[LINK TO PREPRINT]"],
     "DatasetDOI": "[OPENNEURO IDF?]"
 }
