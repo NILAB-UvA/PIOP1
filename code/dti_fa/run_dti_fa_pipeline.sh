@@ -41,7 +41,7 @@ echo "Found ${#sub_dirs[@]} sub dirs!"
 for sub_dir in ${sub_dirs[@]}; do
     sub=$(basename ${sub_dir})
     echo "Running BET and DTIFIT on ${sub}"
-    dwis=($(ls ${sub_dir}/dwi/*.nii.gz))
+    dwis=($(find ${sub_dir} -maxdepth 2 -name *_dwi.nii.gz))
     for dwi in ${dwis[@]}; do 
         basen=$(basename ${dwi})
         b0=${tmp_dir}/${basen/.nii.gz/_b0.nii.gz}
