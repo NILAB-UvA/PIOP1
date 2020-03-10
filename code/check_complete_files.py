@@ -110,13 +110,17 @@ def main(bids_dir, spaces=None):
                                 continue
                             f = op.join(dti_fa, f'{sub_base}_space-{space}_{mod}.nii.gz')
                             if not op.isfile(f):
-                                print(f"WARNING: {f} seems to be missing.")
+                                f2 = op.join(dti_fa, f'{sub_base}_space-{space}_desc-average_{mod}.nii.gz')
+                                if not op.isfile(f2):
+                                    print(f"WARNING: {f} seems to be missing.")
 
                     if op.join(bids_dir, 'derivatives', 'tbss'):
                         # Crude check
                         f = op.join(bids_dir, 'derivatives', 'tbss', 'FA', f'{sub_base}_space-native_FA_FA_to_target.nii.gz')
                         if not op.isfile(f):
-                            print(f"WARNING: {f} seems to be missing.")
+                            f2 = op.join(bids_dir, 'derivatives', 'tbss', 'FA', f'{sub_base}_space-native_desc-average_FA_FA_to_target.nii.gz')
+                            if not op.isfile(f2):
+                                print(f"WARNING: {f} seems to be missing.")
 
         error_dir = op.join(bids_dir, 'derivatives', 'fmriprep', sub_base, 'log')
         if op.isdir(error_dir):
@@ -127,8 +131,9 @@ def main(bids_dir, spaces=None):
         for func in func_files:
             func_base = op.basename(func).split('.nii.gz')[0]
             events = func.replace('bold.nii.gz', 'events.tsv')
-            if not op.isfile(events) and 'resting' not in func:
-                print(f"WARNING: {op.basename(func)} exists, but {op.basename(events)} doesn't.")
+            if not op.isfile(events):
+                if not 'resting' in func and 'movie' not in func:
+                    print(f"WARNING: {op.basename(func)} exists, but {op.basename(events)} doesn't.")
 
             mriqc_dir = op.join(bids_dir, 'derivatives', 'mriqc')
             if op.isdir(mriqc_dir):
@@ -192,7 +197,8 @@ def main(bids_dir, spaces=None):
                     op.basename(phys).replace('physio.tsv.gz', 'desc-retroicor_regressors.tsv')
                 )
                 if not op.isfile(ricor):
-                    print(f"WARNING: {op.basename(phys)} exists, but {op.basename(ricor)} doesn't.")
+                    pass
+                    #print(f"WARNING: {op.basename(phys)} exists, but {op.basename(ricor)} doesn't.")
                 else:
                     df = pd.read_csv(ricor, sep='\t')
                     if not (
@@ -206,10 +212,29 @@ def main(bids_dir, spaces=None):
     #### CHECK WHETHER DATA EXISTS IN DERIVATIVES THAT DOES NOT EXIST IN BIDS ####
     for deriv in ('freesurfer', 'fmriprep', 'physiology', 'vbm', 'dti_fa', 'mriqc'):
         deriv_dirs = sorted(glob(op.join(bids_dir, 'derivatives', deriv, 'sub-*')))
-        deriv_subs = [op.basename(d) for d in deriv_dirs if op.isdir(d)]
+        deriv_subs = [d for d in deriv_dirs if op.isdir(d)]
         for sub in deriv_subs:
-            if not op.isdir(op.join(bids_dir, sub)):
-                print(f"WARNING: {deriv} dir {sub} exists, but BIDS dir {sub} does not exist.")
+            sub_base = op.basename(sub)
+            if not op.isdir(op.join(bids_dir, op.basename(sub))):
+                print(f"WARNING: {deriv} dir {sub_base} exists, but BIDS dir {sub_base} does not exist.")
+            else:
+                if deriv == 'fmriprep':
+                    files = list(set([op.basename(s).split('_desc')[0] for s in
+                                      glob(op.join(sub, 'func', '*_desc-confounds_regressors.tsv'))]))
+                elif deriv == 'physiology':
+                    files = list(set([op.basename(s).split('_desc')[0] for s in
+                                      glob(op.join(sub, 'func', '*_desc-confounds_regressors.tsv'))]))
+                elif deriv == 'mriqc':
+                    files = list(set([op.basename(s).split('_bold.html')[0] for s in
+                                      glob(sub + '*_bold.html')]))
+                else:
+                    continue
+                
+                for f in files:
+                    bids_f = op.join(bids_dir, sub_base, 'func', f + '_bold.nii.gz')
+                    if not op.isfile(bids_f):
+                        print(f"WARNING: {deriv} {f} file exists, but BIDS file {op.basename(bids_f)} doesn't.")
+                                    
 
 if __name__ == '__main__':
     main(op.abspath('..'))

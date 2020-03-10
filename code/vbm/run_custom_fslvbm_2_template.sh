@@ -99,7 +99,7 @@ fi
 echo "Running with ${N_CORES} cores"
 
 if [ -z "$3" ]; then
-    fmriprep_dir=$PWD
+    fmriprep_dir=../derivatives/fmriprep
 else
     fmriprep_dir=$3
 fi
@@ -107,7 +107,7 @@ fi
 echo "FMRIPREP dir = ${fmriprep_dir}"
 
 if [ -z "$4" ]; then
-    out_dir=${PWD}/vbm
+    out_dir=../derivatives/vbm
 else
     out_dir=$4
 fi

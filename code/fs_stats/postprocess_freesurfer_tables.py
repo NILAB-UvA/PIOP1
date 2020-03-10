@@ -1,20 +1,74 @@
+""" Disclaimer: this is possibly the ugliest code I've ever written.
+It works, that's it. Please don't use it for your own analyses. """
+import os
+import json
 import os.path as op
 import pandas as pd
 from glob import glob
+from tqdm import tqdm
 
+pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
-for measure in ['volume', 'thickness', 'area', 'meancurv']:
+fsname2atlas = {
+    'aparc.a2009s': 'destrieux2009',
+    'aparc': 'desikankilliany'
+}
 
-    for parc in ['aparc', 'aparc.a2009s'][:1]:
+hemi2word = {
+    'rh': 'right',
+    'lh': 'left'
+}
 
-        lh = f'../derivatives/fs_stats/data-cortical_type-{parc}_measure-{measure}_hemi-lh.tsv'
-        lh = pd.read_csv(lh, sep='\t')
-        lh.columns = [f'lh_{col}' if col[:2] != 'lh' else col for col in lh.columns]
-        rh = f'../derivatives/fs_stats/data-cortical_type-{parc}_measure-{measure}_hemi-rh.tsv'
-        rh = pd.read_csv(rh, sep='\t')
-        rh.columns = [f'rh_{col}' if col[:2] != 'rh' else col for col in rh.columns]
-        rh = rh.drop(f'rh.{parc}.{measure}', axis=1)
-        merged = pd.concat([lh, rh], axis=1).set_index(f'lh.{parc}.{measure}')
-        merged.index = merged.index.rename('sub_id')
-        merged.to_csv(f'../derivatives/fs_stats/data-cortical_type-{parc}_measure-{measure}_hemi-both.tsv',
-                      sep='\t', index=True)
+subs = [op.basename(d) for d in sorted(glob('../derivatives/freesurfer/sub-*'))]
+
+json_file = {
+    "name": {
+        "Description": "Name of brain region (prepended by 'left' or 'right', indicating hemisphere)"
+    },
+    "volume": {
+        "Description": "Volume for a given brain area",
+        "Units": "mm^3"
+    },
+    "area": {
+        "Description": "Surface area for a given brain area",
+        "Units": "mm^2"
+    },
+    "meancurv": {
+        "Description": "Integrated rectified mean curvature for a given brain area",
+        "Units": "mm^-1"
+    },
+    "thickness": {
+        "Description": "Thickness of a given brain area",
+        "Units": "mm"
+    }
+}
+
+for atlas in fsname2atlas.keys():
+    for sub in tqdm(subs, desc=atlas):
+        dfs = []
+        for hemi in ('lh', 'rh'):
+            i = 0
+            for measure in ['volume', 'thickness', 'area', 'meancurv']:
+                f = f'../derivatives/fs_stats/data-cortical_type-{atlas}_measure-{measure}_hemi-{hemi}.tsv'
+                df = pd.read_csv(f, sep='\t', index_col=0)
+                df.index = df.index.rename('participant_id')
+                df = df.reset_index()
+                df = df.loc[:, [col for col in df.columns if 'Mean' not in col]]
+                df = pd.melt(df, id_vars=['participant_id'], value_name=measure, var_name='name')
+                df['name'] = [n.replace(f'_{measure}', '') for n in df['name']]
+                df['name'] = [hemi2word[n.split('_')[0]] + '-' + '_'.join(n.split('_')[1:]) if 'rh' in n or 'lh' in n else n
+                            for n in df['name']]
+                df = df.query("participant_id == @sub")
+                dfs.append(df)
+                
+        df = pd.concat(dfs, axis=1)
+        df = df.loc[:, ~df.columns.duplicated()].dropna()        
+        d_out = f'../derivatives/fs_stats/{sub}'
+        if not op.isdir(d_out):
+            os.makedirs(d_out)
+
+        f_out = op.join(d_out, f'{sub}_desc-{fsname2atlas[atlas]}_stats.tsv')
+        df.drop('participant_id', axis=1).to_csv(f_out, sep='\t', index=False)
+        f_out = f_out.replace('tsv', 'json')
+        with open(f_out, 'w') as json_out:
+            json.dump(json_file, json_out, indent=4)
