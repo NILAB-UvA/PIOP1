@@ -65,7 +65,7 @@ fi
 sub_dirs=($(ls -d ${bids_dir}/sub-*))
 echo "Found ${#sub_dirs[@]} sub dirs!"
 
-for sub_dir in ${sub_dirs[@]:1:1}; do
+for sub_dir in ${sub_dirs[@]}; do
     sub_base=$(basename ${sub_dir})
     sub_out=${out_dir}/${sub_base}
     if [ ! -d ${sub_out} ]; then
