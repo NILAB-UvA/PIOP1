@@ -1,36 +1,35 @@
 set -e
 
 if [ -z "$1" ]; then
-    bids_dir=$PWD
-else
-    bids_dir=$1
-fi
-
-if [ ! -d ${bids_dir} ]; then
-    echo "ERROR: ${bids_dir} is not an existing dir!"
+    echo "ERROR: you have to provide a BIDS directory as first argument."
     exit 1
 fi
 
-if [ -z "$2" ]; then
-    idx_b0=0
-else
-    idx_b0=$2
-fi
+bids_dir=$1
 
-if [ -z "$3" ]; then
+echo "Processing BIDS dir ${bids_dir} ..."
+
+if [ -z "$2" ]; then
     n_cores=1
 else
-    n_cores=$3
+    n_cores=$2
 fi
 
-echo "Processing bids-dir ${bids_dir} with ${n_cores} cores!"
+echo "Using ${n_cores} cores ..."
 
-out_dir=${bids_dir}/derivatives/dti_fa
+if [ -z "$3" ]; then
+    out_dir=${bids_dir}/derivatives/dti_fa
+else
+    out_dir=$3
+fi
+
+echo "Setting output directory to ${out_dir} ..."
+
 if [ ! -d ${out_dir} ]; then
     mkdir -p ${out_dir}
 fi
 
-tmp_dir=${bids_dir}/tmp
+tmp_dir=${out_dir}/tmp
 if [ ! -d ${tmp_dir} ]; then
     mkdir ${tmp_dir}
 fi

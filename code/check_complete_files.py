@@ -73,7 +73,7 @@ def main(bids_dir, spaces=None):
                 if not op.isdir(vbm_dir_sub):
                     print(f"WARNING: {vbm_dir_sub} does not exist.")
                 else:
-                    f = op.join(vbm_dir_sub, f'{sub_base}_method-VBM_GMvolume.nii.gz')
+                    f = op.join(vbm_dir_sub, f'{sub_base}_desc-VBM_GMvolume.nii.gz')
                     if not op.isfile(f):
                         print(f"WARNING: {op.basename(f)} does not exist.")
 
@@ -219,22 +219,25 @@ def main(bids_dir, spaces=None):
                 print(f"WARNING: {deriv} dir {sub_base} exists, but BIDS dir {sub_base} does not exist.")
             else:
                 if deriv == 'fmriprep':
-                    files = list(set([op.basename(s).split('_desc')[0] for s in
-                                      glob(op.join(sub, 'func', '*_desc-confounds_regressors.tsv'))]))
+                    files = [op.basename(s).split('_desc')[0] for s in glob(op.join(sub, 'func', '*_desc-confounds_regressors.tsv'))]
+                    for f in files:
+                        bids_f = op.join(bids_dir, sub_base, 'func', f + '_bold.nii.gz')
+                        if not op.isfile(bids_f):
+                            print(f"WARNING: {f} exists in Fmriprep, but not in BIDS, {bids_f}.")
                 elif deriv == 'physiology':
-                    files = list(set([op.basename(s).split('_desc')[0] for s in
-                                      glob(op.join(sub, 'func', '*_desc-confounds_regressors.tsv'))]))
+                    files = [op.basename(s).split('_desc')[0] for s in glob(op.join(sub, 'physio', '*_desc-retroicor_regressors.tsv'))]
+                    for f in files:
+                        bids_f = op.join(bids_dir, sub_base, 'func', f + '_physio.tsv.gz')
+                        if not op.isfile(bids_f):
+                            print(f"WARNING: {f} exists in Physio deriv, but not in BIDS, {bids_f}.")
                 elif deriv == 'mriqc':
-                    files = list(set([op.basename(s).split('_bold.html')[0] for s in
-                                      glob(sub + '*_bold.html')]))
-                else:
-                    continue
+                    files = [op.basename(s).split('_bold.html')[0] for s in glob(sub + '*_bold.html')]
+                    for f in files:
+                        bids_f = op.join(bids_dir, sub_base, 'func', f + '_bold.nii.gz')
+                        if not op.isfile(bids_f):
+                            print(f"WARNING: {f} exists in MRIQC, but not in BIDS, {bids_f}.")
                 
-                for f in files:
-                    bids_f = op.join(bids_dir, sub_base, 'func', f + '_bold.nii.gz')
-                    if not op.isfile(bids_f):
-                        print(f"WARNING: {deriv} {f} file exists, but BIDS file {op.basename(bids_f)} doesn't.")
-                                    
+                                   
 
 if __name__ == '__main__':
     main(op.abspath('..'))

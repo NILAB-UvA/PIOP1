@@ -1,4 +1,4 @@
-#source activate python2
+# source activate python2
 set -e
 export SUBJECTS_DIR=../derivatives/freesurfer
 
