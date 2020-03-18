@@ -1,6 +1,7 @@
 bids_dir=..
+work_dir=../../fmriprep_work
 out_dir=$bids_dir/derivatives
-n_jobs=5
+n_jobs=1
 
 subs=(`ls -d1 $bids_dir/sub-????`)
 # Run subjects one at the time as to avoid memory issues
@@ -12,7 +13,7 @@ for sub in ${subs[@]}; do
     if [ -f ${out_dir}/fmriprep/${base_sub}.html ]; then
         echo "${base_sub} already done!"
         continue
-    fi	
+    fi
 
     label=${base_sub//sub-/}
     echo "Processing $label ..."
@@ -21,12 +22,12 @@ for sub in ${subs[@]}; do
         --participant-label $label \
         --nthreads 5 \
         --omp-nthreads 5 \
-        --ignore slicetiming \
+        --ignore slicetiming fieldmaps \
         --output-spaces T1w MNI152NLin2009cAsym fsaverage5 \
         --use-syn-sdc \
-	--skip-bids-validation \
-	-u 1002:1002 \
-	-w $out_dir/fmriprep_work \
+        --skip-bids-validation \
+        -u 1002:1002 \
+        -w $work_dir \
         --fs-license-file /usr/local/freesurfer/license.txt \
         --notrack &
 
@@ -35,3 +36,4 @@ for sub in ${subs[@]}; do
         wait
     fi
 done
+wait
