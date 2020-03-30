@@ -1,6 +1,6 @@
 {
   "onset": {
-    "Description": "Onset of the trial, i.e., the first display of oriented bars."
+    "Description": "Onset of the trial, i.e., the appearance of the grey screen (duration: 1 sec). Note, this is the onset of the trial. The onset of the different phases is as follows: encoding phase = onset + 1, retention phase = onset + 2, memory/retrieval phase = onset + 4"
   },
   "trial_type": {
     "LongName": "Condition of trial",
@@ -10,6 +10,9 @@
       "active_change": "display with oriented bars, which changed relative to the first display",
       "active_nochange": "display with oriented bars, which DIDN'T change relative to the first display"
     }
+  },
+  "response_time": {
+    "LongName": "Time it took the participant to respond relative to the start of the memory/retrieval phase. To get the onset of the actual response: onset + 4 + response_time"
   },
   "response_accuracy": {
     "LongName": "Accuracy of response",
