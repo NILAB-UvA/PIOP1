@@ -6,7 +6,7 @@ from glob import glob
 
 files = sorted(glob('../../logs/faces/raw/pi*'))
 out_dir = '../../logs/faces/clean'
-emo_mapper = dict(P='Pride', J='Joy', A='Anger', C='Contempt', N='Neutral')
+emo_mapper = dict(P='pride', J='joy', A='anger', C='contempt', N='neutral')
 id_mapper = {1:'1', 2:'2', 3:'3', 4:'4', 5:'6', 6:'9'}
 bids_dir = '../'
 
@@ -32,7 +32,7 @@ for f in files:
     df['ADFES_id'] = ['F0' + id_mapper[int(s[1])] for s in idf]
     df['ethnicity'] = ['NorthEuropean' if int(s[1]) < 5 else 'Mediterranean' for s in idf]
     #df['stim_file'] = ['F0' + s[1] + '-' + emo_mapper[s[0]] + '-Face Forward.mpeg' for s in idf]
-    df.trial_type = [emo_mapper[s[0]] for s in df.trial_type]
+    #df.trial_type = [emo_mapper[s[0]] for s in df.trial_type]
     df['duration'] = 2.00
     df = df.loc[:, ['onset', 'duration', 'trial_type', 'gender', 'ethnicity', 'ADFES_id']]
     sub_id = op.basename(f).split('-')[0][2:]

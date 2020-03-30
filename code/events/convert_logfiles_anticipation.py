@@ -27,7 +27,7 @@ for f in files:
             df.loc[i, 'trial_type'] = 'cue_' + negneu_mapper[tt.split('_')[1]]
         else:
             tt = int(tt)
-            df.loc[i, 'trial_type'] = 'img_negative' if tt > 200 else 'img_neutral'
+            df.loc[i, 'trial_type'] = 'img_negative' if (tt < 200 or tt > 399) else 'img_neutral'
             
     df['duration'] = [2 if 'cue' in x else 3 for x in df.trial_type]
     df = df.loc[:, ['onset', 'duration', 'trial_type']]
