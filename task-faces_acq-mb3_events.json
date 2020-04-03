@@ -1,7 +1,7 @@
 { 
-  "gender": {
-    "LongName": "face gender",
-    "Description": "gender of face",
+  "sex": {
+    "LongName": "face sex",
+    "Description": "sex of face",
     "Levels": {
       "male": "male",
       "female": "female"

@@ -1,25 +1,17 @@
 {
   "age": {
     "Description": "Age of participant in years",
-    "Units": "Years, with one decimal precision (i.e., 20.5 means, at the day of testing, the participant was 20 years and 6 months old)"
+    "Units": "Years, with one quantile precision"
   },
   "sex": {
-    "Description": "(Self-reported) sex of participant",
+    "Description": "(Self-reported) biological sex of participant",
     "Levels": {
       "M": "male",
       "F": "female"
     }
   },
-  "height": {
-    "Description": "Height of participant",
-    "Units": "Centimeters"
-  },
-  "weight": {
-    "Description": "Weight of participant",
-    "Units": "Kilograms"
-  },
   "BMI": {
-    "LongName": "Body mass index",
+    "LongName": "Body mass index (rounded to nearest integer",
     "Units": "kilograms per squared meters",
     "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/60621009"
   },
@@ -31,20 +23,18 @@
       "ambidextrous": "Ambidextrous"
     }
   },
-  "edu": {
-    "Description": "Highest level of education that participant is/was enrolled in",
+  "education": {
+    "Description": "University category",
     "Levels": {
-      "university": "University level (Dutch 'WO'), either bachelor or master level",
-      "non-university": "Not at university level (Dutch 'HBO' or 'MBO')"
+      "academic": "Enrolled at an academic university",
+      "applied": "Enrolled at a university of applied sciences"
     }
   },
   "religious": {
     "Description": "Self-reported religious affiliation",
     "Levels": {
-      "none": "No religious affiliation",
-      "Christian": "Either Catholic or Protestant",
-      "Muslim": "Muslim",
-      "Buddhist": "Buddhist"
+      "no": "No religious affiliation",
+      "yes": "Considers him/herself to be religous" 
     }
   },
   "raven_score": {
@@ -75,4 +65,4 @@
     "Description": "Score on the Openness scale of the NEO-FFI",
     "Units": "Sum of individual items"
   }
-}
+}ß

@@ -24,9 +24,9 @@
       "right": "right hand"
     }
   },
-  "gender": {
-    "LongName": "Gender of face images (in case of emotion trial)",
-    "Description": "Which gender did the presented faces have?",
+  "sex": {
+    "LongName": "Sex of face images (in case of emotion trial)",
+    "Description": "Which sex did the presented faces have?",
     "Levels": {
       "male": "male",
       "female": "female",
@@ -34,8 +34,8 @@
     }
   },
   "emo_match": {
-    "LongName": "Gender of faces for emotion match",
-    "Description": "Which gender was the emotion participants had to match?",
+    "LongName": "The emotion of the face to match (in case of emotion trials)",
+    "Description": "The emotion of the face to match (in case of emotion trials)?",
     "Levels": {
       "fear": "fear",
       "anger": "anger",

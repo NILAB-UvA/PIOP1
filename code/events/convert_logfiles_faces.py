@@ -27,7 +27,7 @@ for f in files:
 
     idf = [s.split(' ')[0].split('.')[0] for s in df.trial_type]
     df = df.drop('trial_type', axis=1)
-    df['gender'] = 'Female'
+    df['gender'] = 'female'
     df['trial_type'] = [emo_mapper[s[0]] for s in idf]
     df['ADFES_id'] = ['F0' + id_mapper[int(s[1])] for s in idf]
     df['ethnicity'] = ['NorthEuropean' if int(s[1]) < 5 else 'Mediterranean' for s in idf]
