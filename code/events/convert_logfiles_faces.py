@@ -27,14 +27,14 @@ for f in files:
 
     idf = [s.split(' ')[0].split('.')[0] for s in df.trial_type]
     df = df.drop('trial_type', axis=1)
-    df['gender'] = 'female'
+    df['sex'] = 'female'
     df['trial_type'] = [emo_mapper[s[0]] for s in idf]
     df['ADFES_id'] = ['F0' + id_mapper[int(s[1])] for s in idf]
     df['ethnicity'] = ['NorthEuropean' if int(s[1]) < 5 else 'Mediterranean' for s in idf]
     #df['stim_file'] = ['F0' + s[1] + '-' + emo_mapper[s[0]] + '-Face Forward.mpeg' for s in idf]
     #df.trial_type = [emo_mapper[s[0]] for s in df.trial_type]
     df['duration'] = 2.00
-    df = df.loc[:, ['onset', 'duration', 'trial_type', 'gender', 'ethnicity', 'ADFES_id']]
+    df = df.loc[:, ['onset', 'duration', 'trial_type', 'sex', 'ethnicity', 'ADFES_id']]
     sub_id = op.basename(f).split('-')[0][2:]
     f_out = op.join(out_dir, f'sub-{sub_id}_task-faces_acq-mb3_events.tsv')
 

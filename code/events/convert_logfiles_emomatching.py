@@ -97,9 +97,9 @@ for f in files:
     new_df = new_df.round({'onset': 5, 'duration': 5})
     new_df = new_df.fillna('n/a')
     sub_id = op.basename(f).split('-')[0][2:]
-    f_out = op.join(out_dir, f'sub-{sub_id}_task-emorecognition_acq-seq_events.tsv')
+    f_out = op.join(out_dir, f'sub-{sub_id}_task-emomatching_acq-seq_events.tsv')
     new_df.to_csv(f_out, sep='\t', index=False)
-    f_out = op.join(bids_dir, f'sub-{sub_id}', 'func', f'sub-{sub_id}_task-emorecognition_acq-seq_events.tsv')
+    f_out = op.join(bids_dir, f'sub-{sub_id}', 'func', f'sub-{sub_id}_task-emomatching_acq-seq_events.tsv')
     if op.isdir(op.dirname(f_out)):
         new_df.to_csv(f_out, sep='\t', index=False)
 
